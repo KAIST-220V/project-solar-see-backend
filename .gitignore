@@ -1,0 +1,68 @@
+# Virtual environment
+venv/
+env/
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Django migrations
+**/migrations/
+
+# Django static files
+#staticfiles/
+#static/
+
+# Media uploads
+#media/
+
+# Environment variables
+.env
+
+# IDE and editor-specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs and debug files
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Byte-compiled / compiled / bundled files
+*.egg
+*.egg-info/
+dist/
+build/
+*.manifest
+*.spec
+
+# Coverage reports
+htmlcov/
+.coverage
+.tox/
+
+# MyPy and Type Checking reports
+.mypy_cache/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# pytest and test-related files
+.pytest_cache/
+pytestdebug.log
+
+# Node modules (if using Node.js for frontend assets)
+node_modules/
+
+# Other temporary files and folders
+*.tmp
+*.swp
+*.bak
+*.orig
+*.rej
+*.swo
