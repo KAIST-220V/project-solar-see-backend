@@ -74,23 +74,28 @@ In a production environment, Django should be served using a WSGI server like **
   ```bash
   pip install gunicorn
   ```
-
-### Run Django with Gunicorn
-- Use Gunicorn to run the Django application:
-  ```bash
-  gunicorn myproject.wsgi:application
-  ```
-  - Replace `myproject` with your Django project name.
-
 ### Running with Unix Socket for Nginx
-- To connect Gunicorn and Nginx via a Unix socket:
-  ```bash
-  gunicorn myproject.wsgi:application --bind unix:/home/kaist-220v/myproject/gunicorn.sock
-  ```
+  
 - To run Gunicorn in the background (useful for production):
   ```bash
-  gunicorn myproject.wsgi:application --bind unix:/home/kaist-220v/myproject/gunicorn.sock --daemon
+  gunicorn core.wsgi:application --bind unix:/home/kaist-220v/project-solar-see-backend/gunicorn.sock --daemon
   ```
+
+### Stoping and Killing Unix Socket
+
+프로세스 ID(PID) 확인:
+```bash
+ps aux | grep gunicorn
+```
+이 명령어로 실행 중인 Gunicorn 프로세스를 확인하고, 해당 프로젝트와 관련된 PID를 찾습니다.
+
+
+특정 PID 종료:
+```bash
+kill <PID>
+```
+특정 프로젝트와 관련된 Gunicorn 프로세스만 종료할 수 있습니다.
+
 
 ### Nginx Configuration
 - Configure Nginx to serve static files and proxy requests to Gunicorn.
