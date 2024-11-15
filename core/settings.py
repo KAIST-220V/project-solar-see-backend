@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-m=(-abwlb6m6&t#o1*&+lj#-)dlhgz-^2eev2$%g%c&zukkts3
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['solar-see.site','localhost','127.0.0.1']
 
 
 # Application definition
