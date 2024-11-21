@@ -1,5 +1,5 @@
 from rest_framework import serializers
-from .models import PanelImage
+from .models import MapPanel
 
 # Serializer for PanelImage
 class PanelImageSerializer(serializers.ModelSerializer):
@@ -8,7 +8,7 @@ class PanelImageSerializer(serializers.ModelSerializer):
     shape_area_m2 = serializers.FloatField(source='area_m2')
 
     class Meta:
-        model = PanelImage
+        model = MapPanel
         fields = ['id', 'mean_point_latitude', 'mean_point_longitude', 'shape_area_m2']
 
 # Serializer for returning image information
@@ -16,7 +16,7 @@ class PanelImageDetailSerializer(serializers.ModelSerializer):
     image_url = serializers.SerializerMethodField()
 
     class Meta:
-        model = PanelImage
+        model = MapPanel
         fields = ['id', 'image_url']
 
     def get_image_url(self, obj):
