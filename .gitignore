@@ -7,12 +7,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# Django migrations
+# Django database migrations
 **/migrations/
+db.sqlite3
 
 # Django static files
-#staticfiles/
-#static/
+staticfiles/
 
 # Media uploads
 #media/
