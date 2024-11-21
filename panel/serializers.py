@@ -1,23 +1,13 @@
 from rest_framework import serializers
 from .models import MapPanel
 
-# Serializer for PanelImage
-class PanelImageSerializer(serializers.ModelSerializer):
-    mean_point_latitude = serializers.FloatField(source='latitude')
-    mean_point_longitude = serializers.FloatField(source='longitude')
-    shape_area_m2 = serializers.FloatField(source='area_m2')
-
-    class Meta:
-        model = MapPanel
-        fields = ['id', 'mean_point_latitude', 'mean_point_longitude', 'shape_area_m2']
-
-# Serializer for returning image information
-class PanelImageDetailSerializer(serializers.ModelSerializer):
+class MapPanelFullSerializer(serializers.ModelSerializer):
     image_url = serializers.SerializerMethodField()
 
     class Meta:
         model = MapPanel
-        fields = ['id', 'image_url']
+        fields = ['id', 'image_url', 'latitude', 'longitude', 'area_m2', 
+                 'created_at', 'updated_at', 'deleted_at']
 
     def get_image_url(self, obj):
         request = self.context.get('request')

@@ -82,7 +82,7 @@ class GameUserScore(models.Model):
         ordering = ['-score']  # Default ordering by score descending
 
     def __str__(self):
-        return f"{self.nickname} - {self.score}"
+        return f"Nickname: {self.nickname} - UUID: {self.uuid} - Score: {self.score}"
 
 class GamePolygonBugReport(models.Model):
     user_uuid = models.CharField(max_length=100)
@@ -101,7 +101,7 @@ class GamePolygonBugReport(models.Model):
     def __str__(self):
         return f"Game {self.game_id} - Round {self.round} - User {self.user_uuid}"
 
-class GameMarkBugReport(models.Model):
+class GameMarkerBugReport(models.Model):
     user_uuid = models.CharField(max_length=100)
     image_id = models.IntegerField()
     game_id = models.CharField(max_length=100)

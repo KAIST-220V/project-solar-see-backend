@@ -1,13 +1,9 @@
 from rest_framework.views import APIView
 from rest_framework.response import Response
-from rest_framework.generics import RetrieveAPIView
 from rest_framework.permissions import AllowAny
-from django.shortcuts import get_object_or_404
-from .models import MapPanel, GameUserScore
-from .serializers import PanelImageSerializer, PanelImageDetailSerializer
+from .models import GamePanel, MapPanel, GameUserScore
+from .serializers import MapPanelFullSerializer
 from rest_framework import status
-
-
 
 # View to return all coordinates
 class CoordinatesView(APIView):
@@ -15,24 +11,25 @@ class CoordinatesView(APIView):
 
     def get(self, request):
         panels = MapPanel.objects.all()
-        serializer = PanelImageSerializer(panels, many=True)
+        serializer = MapPanelFullSerializer(
+            panels, 
+            many=True,
+            context={'request': request}  # request 객체를 context로 전달
+        )
         return Response({'panel': serializer.data})
-    
-class PanelImageView(RetrieveAPIView):
-    permission_classes = [AllowAny]
-    serializer_class = PanelImageDetailSerializer
-
-    def get(self, request, id):
-        panel_image = get_object_or_404(MapPanel, id=id)
-        serializer = self.serializer_class(panel_image, context={'request': request})
-        return Response(serializer.data)
 
 class GameImageView(APIView):
     permission_classes = [AllowAny]
 
     def get(self, request):
-        # Implement game image retrieval logic
-        pass
+        panels = GamePanel.objects.all()
+        panel = panels.first()
+        data = {
+            'id': panel.id,
+            'image_url': request.build_absolute_uri(panel.image_url.url),
+            'polygon': panel.polygon
+        } 
+        return Response(data)
 
 class GameScoreView(APIView):
     permission_classes = [AllowAny]
@@ -49,7 +46,6 @@ class GameScoreView(APIView):
                     status=status.HTTP_400_BAD_REQUEST
                 )
 
-            # Create new game score record
             GameUserScore.objects.create(
                 nickname=nickname,
                 uuid=uuid,
