@@ -22,7 +22,7 @@ class GameImageView(APIView):
     permission_classes = [AllowAny]
 
     def get(self, request):
-        panels = GameImage.objects.all()
+        panels = GameImage.objects.order_by("?")
         panel = panels.first()
         data = {
             'id': panel.id,

@@ -15,7 +15,7 @@ db.sqlite3
 staticfiles/
 
 # Media uploads
-#media/
+media/
 
 # Environment variables
 .env
