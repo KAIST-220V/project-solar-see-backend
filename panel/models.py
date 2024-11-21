@@ -1,7 +1,7 @@
 from django.db import models
 from django.core.exceptions import ValidationError
 
-class MapPanel(models.Model):
+class MapImage(models.Model):
     image_url = models.ImageField(upload_to='images/map')
     latitude = models.FloatField(default=0.0, null=False, blank=False)
     longitude = models.FloatField(default=0.0, null=False, blank=False)
@@ -53,7 +53,7 @@ class PolygonDataValidator:
                     'Each polygon must be an object with "all_points_x" and "all_points_y" arrays of numbers'
                 )
 
-class GamePanel(models.Model):
+class GameImage(models.Model):
     image_url = models.ImageField(upload_to='images/game')
     polygon = models.JSONField(
         default=list,
@@ -68,7 +68,7 @@ class GamePanel(models.Model):
     def __str__(self):
         return f"GamePanel {self.id}"
 
-class GameUserScore(models.Model):
+class GameScore(models.Model):
     image_url = models.ImageField(upload_to='images/profile')
     nickname = models.CharField(max_length=100)
     uuid = models.CharField(max_length=100)
@@ -84,7 +84,7 @@ class GameUserScore(models.Model):
     def __str__(self):
         return f"Nickname: {self.nickname} - UUID: {self.uuid} - Score: {self.score}"
 
-class GamePolygonBugReport(models.Model):
+class GameClaimPolygon(models.Model):
     user_uuid = models.CharField(max_length=100)
     image_id = models.IntegerField()
     game_id = models.CharField(max_length=100)
@@ -101,7 +101,7 @@ class GamePolygonBugReport(models.Model):
     def __str__(self):
         return f"Game {self.game_id} - Round {self.round} - User {self.user_uuid}"
 
-class GameMarkerBugReport(models.Model):
+class GameClaimMark(models.Model):
     user_uuid = models.CharField(max_length=100)
     image_id = models.IntegerField()
     game_id = models.CharField(max_length=100)

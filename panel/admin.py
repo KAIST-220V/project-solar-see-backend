@@ -1,8 +1,8 @@
 from django.contrib import admin
-from .models import GameMarkerBugReport, GamePanel, GamePolygonBugReport, MapPanel, GameUserScore
-admin.site.register(MapPanel)
-admin.site.register(GameUserScore)
-admin.site.register(GamePolygonBugReport)
-admin.site.register(GameMarkerBugReport)
-admin.site.register(GamePanel)
+from .models import GameClaimMark, GameImage, GameClaimPolygon, MapImage, GameScore
+admin.site.register(MapImage)
+admin.site.register(GameScore)
+admin.site.register(GameClaimPolygon)
+admin.site.register(GameClaimMark)
+admin.site.register(GameImage)
 # Register your models here.

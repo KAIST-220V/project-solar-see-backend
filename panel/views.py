@@ -1,7 +1,7 @@
 from rest_framework.views import APIView
 from rest_framework.response import Response
 from rest_framework.permissions import AllowAny
-from .models import GamePanel, MapPanel, GameUserScore
+from .models import GameImage, MapImage, GameScore
 from .serializers import MapPanelFullSerializer
 from rest_framework import status
 
@@ -10,7 +10,7 @@ class CoordinatesView(APIView):
     permission_classes = [AllowAny]
 
     def get(self, request):
-        panels = MapPanel.objects.all()
+        panels = MapImage.objects.all()
         serializer = MapPanelFullSerializer(
             panels, 
             many=True,
@@ -22,7 +22,7 @@ class GameImageView(APIView):
     permission_classes = [AllowAny]
 
     def get(self, request):
-        panels = GamePanel.objects.all()
+        panels = GameImage.objects.all()
         panel = panels.first()
         data = {
             'id': panel.id,
@@ -46,7 +46,7 @@ class GameScoreView(APIView):
                     status=status.HTTP_400_BAD_REQUEST
                 )
 
-            GameUserScore.objects.create(
+            GameScore.objects.create(
                 nickname=nickname,
                 uuid=uuid,
                 score=score
@@ -67,7 +67,7 @@ class GameRankingView(APIView):
         try:
             # Assuming you have a GameScore model with fields: image_url, nickname, score
             # Get top scores ordered by score in descending order
-            rankings = GameUserScore.objects.order_by('-score')[:10]  # Get top 10 scores
+            rankings = GameScore.objects.order_by('-score')[:10]  # Get top 10 scores
             
             ranking_data = [{
                 'image_url': score.image_url or "/media/images/default_profile.png",

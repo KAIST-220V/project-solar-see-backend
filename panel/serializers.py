@@ -1,11 +1,11 @@
 from rest_framework import serializers
-from .models import MapPanel
+from .models import MapImage
 
 class MapPanelFullSerializer(serializers.ModelSerializer):
     image_url = serializers.SerializerMethodField()
 
     class Meta:
-        model = MapPanel
+        model = MapImage
         fields = ['id', 'image_url', 'latitude', 'longitude', 'area_m2', 
                  'created_at', 'updated_at', 'deleted_at']
 
