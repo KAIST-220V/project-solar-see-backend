@@ -22,14 +22,17 @@ class GameImageView(APIView):
     permission_classes = [AllowAny]
 
     def get(self, request):
-        panels = GameImage.objects.order_by("?")
-        panel = panels.first()
-        data = {
-            'id': panel.id,
-            'image_url': request.build_absolute_uri(panel.image_url.url),
-            'polygon': panel.polygon
-        } 
-        return Response(data)
+        while True:
+            panels = GameImage.objects.order_by("?")
+            panel = panels.first()
+            if len(panel.polygon)==0 :
+                continue
+            data = {
+                'id': panel.id,
+                'image_url': request.build_absolute_uri(panel.image_url.url),
+                'polygon': panel.polygon
+            } 
+            return Response(data)
 
 class GameScoreView(APIView):
     permission_classes = [AllowAny]
