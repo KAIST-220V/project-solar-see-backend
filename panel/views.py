@@ -25,7 +25,7 @@ class GameImageView(APIView):
         while True:
             panels = GameImage.objects.order_by("?")
             panel = panels.first()
-            if len(panel.polygon.all_points_x)==0 :
+            if len(panel.polygon)==0 :
                 continue
             data = {
                 'id': panel.id,
