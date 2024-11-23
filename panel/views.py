@@ -39,6 +39,7 @@ class GameScoreView(APIView):
             nickname = request.data.get('nickname')
             uuid = request.data.get('uuid') 
             score = request.data.get('score')
+            image_url = request.data.get('image_url')
 
             if not all([nickname, uuid, score]):
                 return Response(
@@ -49,7 +50,8 @@ class GameScoreView(APIView):
             GameScore.objects.create(
                 nickname=nickname,
                 uuid=uuid,
-                score=score
+                score=score,
+                image_url=image_url
             )
 
             return Response(status=status.HTTP_201_CREATED)
@@ -63,23 +65,33 @@ class GameScoreView(APIView):
 class GameRankingView(APIView):
     permission_classes = [AllowAny]
 
-    def get(self, request):
+    def post(self, request):
         try:
-            # Assuming you have a GameScore model with fields: image_url, nickname, score
-            # Get top scores ordered by score in descending order
-            rankings = GameScore.objects.order_by('-score')[:10]  # Get top 10 scores
-            
-            ranking_data = [{
-                'image_url': score.image_url or "/media/images/default_profile.png",
-                'nickname': score.nickname,
-                'score': score.score
-            } for score in rankings]
-            
-            return Response({'ranking': ranking_data})
-            
+            user_uuid = request.data.get('uuid')
+            if not user_uuid:
+                return Response(
+                    {"error": "UUID is required."},
+                    status=status.HTTP_400_BAD_REQUEST
+                )
+
+            # 상위 10개의 점수만 가져오기
+            rankings = GameScore.objects.order_by('-score')
+
+            # 순위 데이터 생성
+            ranking_data = []
+            for score in rankings:
+                ranking_data.append({
+                    'image_url': score.image_url,
+                    'nickname': score.nickname,
+                    'score': score.score,
+                    'uuid': score.uuid if score.uuid == user_uuid else None,
+                })
+
+            return Response({'ranking': ranking_data}, status=status.HTTP_200_OK)
+
         except Exception as e:
             return Response(
-                {"error": str(e)},
+                {"error": f"An error occurred: {str(e)}"},
                 status=status.HTTP_500_INTERNAL_SERVER_ERROR
             )
 

@@ -69,7 +69,7 @@ class GameImage(models.Model):
         return f"GamePanel {self.id}"
 
 class GameScore(models.Model):
-    image_url = models.ImageField(upload_to='images/profile')
+    image_url = models.CharField(max_length=5000)
     nickname = models.CharField(max_length=100)
     uuid = models.CharField(max_length=100)
     score = models.IntegerField()
