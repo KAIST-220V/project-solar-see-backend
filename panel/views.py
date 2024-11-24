@@ -87,7 +87,7 @@ class GameRankingView(APIView):
                     'image_url': score.image_url,
                     'nickname': score.nickname,
                     'score': score.score,
-                    'uuid': score.uuid if score.uuid == user_uuid else None,
+                    'is_mine': True if score.uuid == user_uuid else False,
                 })
 
             return Response({'ranking': ranking_data}, status=status.HTTP_200_OK)
