@@ -12,7 +12,7 @@ class MapImage(models.Model):
     deleted_at = models.DateTimeField(null=True, blank=True)
 
     def __str__(self):
-        return f"MapPanel {self.id}"
+        return f"Map Image {self.id}"
 
 class PolygonDataValidator:
     def __init__(self, limit_value=None):
@@ -66,7 +66,7 @@ class GameImage(models.Model):
     deleted_at = models.DateTimeField(null=True, blank=True)
 
     def __str__(self):
-        return f"GamePanel {self.id}"
+        return f"Game Image {self.id}"
 
 class GameScore(models.Model):
     image_url = models.CharField(max_length=5000)
