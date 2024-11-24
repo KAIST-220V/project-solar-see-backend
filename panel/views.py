@@ -1,6 +1,8 @@
 from rest_framework.views import APIView
 from rest_framework.response import Response
 from rest_framework.permissions import AllowAny
+from django.db.models import F, Window
+from django.db.models.functions import Rank
 from .models import GameImage, MapImage, GameScore
 from .serializers import MapPanelFullSerializer
 from rest_framework import status
@@ -50,14 +52,38 @@ class GameScoreView(APIView):
                     status=status.HTTP_400_BAD_REQUEST
                 )
 
-            GameScore.objects.create(
+            new_score = GameScore.objects.create(
                 nickname=nickname,
                 uuid=uuid,
                 score=score,
                 image_url=image_url
             )
 
-            return Response(status=status.HTTP_201_CREATED)
+            ranking_query = GameScore.objects.annotate(
+                rank=Window(
+                    expression=Rank(),
+                    order_by=['score', 'created_at']
+                )
+            ).filter(id=new_score.id).first()
+
+            if ranking_query:
+                rank_position = ranking_query.rank
+            else:
+                return Response(
+                    {"error": "Failed to calculate rank"},
+                    status=status.HTTP_500_INTERNAL_SERVER_ERROR
+                )
+
+            return Response(
+                {
+                    "rank": rank_position,
+                    "nickname": new_score.nickname,
+                    "score": new_score.score,
+                    "uuid": new_score.uuid,
+                    "image_url": new_score.image_url
+                },
+                status=status.HTTP_201_CREATED
+            )
 
         except Exception as e:
             return Response(
@@ -78,7 +104,7 @@ class GameRankingView(APIView):
                 )
 
             # 상위 10개의 점수만 가져오기
-            rankings = GameScore.objects.order_by('-score')
+            GameScore.objects.order_by('-score', 'created_at')
 
             # 순위 데이터 생성
             ranking_data = []
