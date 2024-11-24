@@ -79,7 +79,7 @@ class GameScore(models.Model):
     deleted_at = models.DateTimeField(null=True, blank=True)
 
     class Meta:
-        ordering = ['-score']  # Default ordering by score descending
+        ordering = ['-score','-created_at']  # Default ordering by score descending
 
     def __str__(self):
         return f"Nickname: {self.nickname} - UUID: {self.uuid} - Score: {self.score}"
