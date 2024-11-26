@@ -102,6 +102,7 @@ class GameRankingView(APIView):
                     'nickname': score.nickname,
                     'score': score.score,
                     'is_mine': True if score.uuid == user_uuid else False,
+                    'created_at':score.created_at
                 })
 
             return Response({'ranking': ranking_data}, status=status.HTTP_200_OK)
