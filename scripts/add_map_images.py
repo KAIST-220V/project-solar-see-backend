@@ -10,6 +10,12 @@ os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'core.settings')
 django.setup()
 
 from panel.models import MapImage
+def clear_map_images():
+    """
+    MapImage 모델의 모든 데이터를 삭제합니다.
+    """
+    MapImage.objects.all().delete()
+    print("All MapImage records have been deleted.")
 
 def insert_game_images(json_path):
     with open(json_path, 'r', encoding='utf-8') as file:
@@ -28,4 +34,5 @@ def insert_game_images(json_path):
 # 실행
 if __name__ == "__main__":
     json_file_path = "202402603C00810034_output.json.updated.json"
+    #clear_map_images()
     insert_game_images(json_file_path)
