@@ -33,7 +33,7 @@
                 "mean_point_longitude": 127.3575023671786,
                 "shape_area_m2": 15.941822993218615
             },
-            "image_url": "images/map/202402603C00810034_cropped_0.tif"
+            "image_url": "images/map/202402603C00810034_cropped_0.png"
         },
         {
             "shape_attributes": {
@@ -59,7 +59,7 @@
                 "mean_point_longitude": 127.35932011709224,
                 "shape_area_m2": 10.273809867586802
             },
-            "image_url": "images/map/202402603C00810034_cropped_1.tif"
+            "image_url": "images/map/202402603C00810034_cropped_1.png"
         },
         {
             "shape_attributes": {
@@ -89,7 +89,7 @@
                 "mean_point_longitude": 127.36280450140875,
                 "shape_area_m2": 25.189458292628238
             },
-            "image_url": "images/map/202402603C00810034_cropped_2.tif"
+            "image_url": "images/map/202402603C00810034_cropped_2.png"
         },
         {
             "shape_attributes": {
@@ -115,7 +115,7 @@
                 "mean_point_longitude": 127.36281778757329,
                 "shape_area_m2": 30.232703587813322
             },
-            "image_url": "images/map/202402603C00810034_cropped_3.tif"
+            "image_url": "images/map/202402603C00810034_cropped_3.png"
         },
         {
             "shape_attributes": {
@@ -141,7 +141,7 @@
                 "mean_point_longitude": 127.36281620959774,
                 "shape_area_m2": 30.947982514672088
             },
-            "image_url": "images/map/202402603C00810034_cropped_4.tif"
+            "image_url": "images/map/202402603C00810034_cropped_4.png"
         },
         {
             "shape_attributes": {
@@ -165,7 +165,7 @@
                 "mean_point_longitude": 127.36283204779681,
                 "shape_area_m2": 28.97714829999167
             },
-            "image_url": "images/map/202402603C00810034_cropped_5.tif"
+            "image_url": "images/map/202402603C00810034_cropped_5.png"
         },
         {
             "shape_attributes": {
@@ -191,7 +191,7 @@
                 "mean_point_longitude": 127.36281761224267,
                 "shape_area_m2": 31.530472751862142
             },
-            "image_url": "images/map/202402603C00810034_cropped_6.tif"
+            "image_url": "images/map/202402603C00810034_cropped_6.png"
         },
         {
             "shape_attributes": {
@@ -213,7 +213,7 @@
                 "mean_point_longitude": 127.36248799068247,
                 "shape_area_m2": 7.0744629498575815
             },
-            "image_url": "images/map/202402603C00810034_cropped_7.tif"
+            "image_url": "images/map/202402603C00810034_cropped_7.png"
         },
         {
             "shape_attributes": {
@@ -239,7 +239,7 @@
                 "mean_point_longitude": 127.36281866422637,
                 "shape_area_m2": 29.20955599543733
             },
-            "image_url": "images/map/202402603C00810034_cropped_8.tif"
+            "image_url": "images/map/202402603C00810034_cropped_8.png"
         },
         {
             "shape_attributes": {
@@ -269,7 +269,7 @@
                 "mean_point_longitude": 127.36440014639285,
                 "shape_area_m2": 47.463351990028805
             },
-            "image_url": "images/map/202402603C00810034_cropped_9.tif"
+            "image_url": "images/map/202402603C00810034_cropped_9.png"
         },
         {
             "shape_attributes": {
@@ -303,7 +303,7 @@
                 "mean_point_longitude": 127.36397627665637,
                 "shape_area_m2": 203.01657264222004
             },
-            "image_url": "images/map/202402603C00810034_cropped_10.tif"
+            "image_url": "images/map/202402603C00810034_cropped_10.png"
         },
         {
             "shape_attributes": {
@@ -329,7 +329,7 @@
                 "mean_point_longitude": 127.3643841913067,
                 "shape_area_m2": 29.659210881645425
             },
-            "image_url": "images/map/202402603C00810034_cropped_11.tif"
+            "image_url": "images/map/202402603C00810034_cropped_11.png"
         },
         {
             "shape_attributes": {
@@ -363,7 +363,7 @@
                 "mean_point_longitude": 127.36415618977827,
                 "shape_area_m2": 235.14693669722925
             },
-            "image_url": "images/map/202402603C00810034_cropped_12.tif"
+            "image_url": "images/map/202402603C00810034_cropped_12.png"
         },
         {
             "shape_attributes": {
@@ -389,7 +389,7 @@
                 "mean_point_longitude": 127.3643935714947,
                 "shape_area_m2": 32.58677825466997
             },
-            "image_url": "images/map/202402603C00810034_cropped_13.tif"
+            "image_url": "images/map/202402603C00810034_cropped_13.png"
         },
         {
             "shape_attributes": {
@@ -413,7 +413,7 @@
                 "mean_point_longitude": 127.3638785378069,
                 "shape_area_m2": 30.65219040570273
             },
-            "image_url": "images/map/202402603C00810034_cropped_14.tif"
+            "image_url": "images/map/202402603C00810034_cropped_14.png"
         },
         {
             "shape_attributes": {
@@ -443,7 +443,7 @@
                 "mean_point_longitude": 127.36413422829021,
                 "shape_area_m2": 63.5076223331579
             },
-            "image_url": "images/map/202402603C00810034_cropped_15.tif"
+            "image_url": "images/map/202402603C00810034_cropped_15.png"
         },
         {
             "shape_attributes": {
@@ -467,7 +467,7 @@
                 "mean_point_longitude": 127.3639504379708,
                 "shape_area_m2": 27.27194206588044
             },
-            "image_url": "images/map/202402603C00810034_cropped_16.tif"
+            "image_url": "images/map/202402603C00810034_cropped_16.png"
         },
         {
             "shape_attributes": {
@@ -495,7 +495,7 @@
                 "mean_point_longitude": 127.3642041596374,
                 "shape_area_m2": 25.88633995277816
             },
-            "image_url": "images/map/202402603C00810034_cropped_17.tif"
+            "image_url": "images/map/202402603C00810034_cropped_17.png"
         },
         {
             "shape_attributes": {
@@ -527,7 +527,7 @@
                 "mean_point_longitude": 127.36392695535682,
                 "shape_area_m2": 59.63555045177482
             },
-            "image_url": "images/map/202402603C00810034_cropped_18.tif"
+            "image_url": "images/map/202402603C00810034_cropped_18.png"
         },
         {
             "shape_attributes": {
@@ -553,7 +553,7 @@
                 "mean_point_longitude": 127.36394709207819,
                 "shape_area_m2": 28.910761358421453
             },
-            "image_url": "images/map/202402603C00810034_cropped_19.tif"
+            "image_url": "images/map/202402603C00810034_cropped_19.png"
         },
         {
             "shape_attributes": {
@@ -585,7 +585,7 @@
                 "mean_point_longitude": 127.36481859921021,
                 "shape_area_m2": 63.38407829704725
             },
-            "image_url": "images/map/202402603C00810034_cropped_20.tif"
+            "image_url": "images/map/202402603C00810034_cropped_20.png"
         },
         {
             "shape_attributes": {
@@ -611,7 +611,7 @@
                 "mean_point_longitude": 127.36565709158702,
                 "shape_area_m2": 39.779114605100325
             },
-            "image_url": "images/map/202402603C00810034_cropped_21.tif"
+            "image_url": "images/map/202402603C00810034_cropped_21.png"
         },
         {
             "shape_attributes": {
@@ -643,7 +643,7 @@
                 "mean_point_longitude": 127.36545189339927,
                 "shape_area_m2": 27.875557045272807
             },
-            "image_url": "images/map/202402603C00810034_cropped_22.tif"
+            "image_url": "images/map/202402603C00810034_cropped_22.png"
         },
         {
             "shape_attributes": {
@@ -673,7 +673,7 @@
                 "mean_point_longitude": 127.36479411428954,
                 "shape_area_m2": 59.78637107954124
             },
-            "image_url": "images/map/202402603C00810034_cropped_23.tif"
+            "image_url": "images/map/202402603C00810034_cropped_23.png"
         },
         {
             "shape_attributes": {
@@ -701,7 +701,7 @@
                 "mean_point_longitude": 127.36548271433013,
                 "shape_area_m2": 26.85846348530775
             },
-            "image_url": "images/map/202402603C00810034_cropped_24.tif"
+            "image_url": "images/map/202402603C00810034_cropped_24.png"
         },
         {
             "shape_attributes": {
@@ -727,7 +727,7 @@
                 "mean_point_longitude": 127.36551358347691,
                 "shape_area_m2": 9.012183567484248
             },
-            "image_url": "images/map/202402603C00810034_cropped_25.tif"
+            "image_url": "images/map/202402603C00810034_cropped_25.png"
         },
         {
             "shape_attributes": {
@@ -749,7 +749,7 @@
                 "mean_point_longitude": 127.36566882120532,
                 "shape_area_m2": 46.36767127498972
             },
-            "image_url": "images/map/202402603C00810034_cropped_26.tif"
+            "image_url": "images/map/202402603C00810034_cropped_26.png"
         },
         {
             "shape_attributes": {
@@ -779,7 +779,7 @@
                 "mean_point_longitude": 127.36455662896863,
                 "shape_area_m2": 174.34814495724478
             },
-            "image_url": "images/map/202402603C00810034_cropped_27.tif"
+            "image_url": "images/map/202402603C00810034_cropped_27.png"
         },
         {
             "shape_attributes": {
@@ -811,7 +811,7 @@
                 "mean_point_longitude": 127.36529571765207,
                 "shape_area_m2": 147.00743965073147
             },
-            "image_url": "images/map/202402603C00810034_cropped_28.tif"
+            "image_url": "images/map/202402603C00810034_cropped_28.png"
         },
         {
             "shape_attributes": {
@@ -843,7 +843,7 @@
                 "mean_point_longitude": 127.36484584558812,
                 "shape_area_m2": 81.36295464430637
             },
-            "image_url": "images/map/202402603C00810034_cropped_29.tif"
+            "image_url": "images/map/202402603C00810034_cropped_29.png"
         },
         {
             "shape_attributes": {
@@ -865,7 +865,7 @@
                 "mean_point_longitude": 127.36567004851963,
                 "shape_area_m2": 33.63119292633313
             },
-            "image_url": "images/map/202402603C00810034_cropped_30.tif"
+            "image_url": "images/map/202402603C00810034_cropped_30.png"
         },
         {
             "shape_attributes": {
@@ -899,7 +899,7 @@
                 "mean_point_longitude": 127.36526172104541,
                 "shape_area_m2": 130.745510144694
             },
-            "image_url": "images/map/202402603C00810034_cropped_31.tif"
+            "image_url": "images/map/202402603C00810034_cropped_31.png"
         },
         {
             "shape_attributes": {
@@ -929,7 +929,7 @@
                 "mean_point_longitude": 127.36544943195223,
                 "shape_area_m2": 76.657540673925
             },
-            "image_url": "images/map/202402603C00810034_cropped_32.tif"
+            "image_url": "images/map/202402603C00810034_cropped_32.png"
         },
         {
             "shape_attributes": {
@@ -961,7 +961,7 @@
                 "mean_point_longitude": 127.3645226937277,
                 "shape_area_m2": 45.01850921701573
             },
-            "image_url": "images/map/202402603C00810034_cropped_33.tif"
+            "image_url": "images/map/202402603C00810034_cropped_33.png"
         },
         {
             "shape_attributes": {
@@ -987,7 +987,7 @@
                 "mean_point_longitude": 127.36579025519073,
                 "shape_area_m2": 61.59122740287079
             },
-            "image_url": "images/map/202402603C00810034_cropped_34.tif"
+            "image_url": "images/map/202402603C00810034_cropped_34.png"
         },
         {
             "shape_attributes": {
@@ -1015,7 +1015,7 @@
                 "mean_point_longitude": 127.36577949427411,
                 "shape_area_m2": 80.72916902696393
             },
-            "image_url": "images/map/202402603C00810034_cropped_35.tif"
+            "image_url": "images/map/202402603C00810034_cropped_35.png"
         },
         {
             "shape_attributes": {
@@ -1041,7 +1041,7 @@
                 "mean_point_longitude": 127.3657745631005,
                 "shape_area_m2": 53.52680208784994
             },
-            "image_url": "images/map/202402603C00810034_cropped_36.tif"
+            "image_url": "images/map/202402603C00810034_cropped_36.png"
         },
         {
             "shape_attributes": {
@@ -1063,7 +1063,7 @@
                 "mean_point_longitude": 127.36665435460418,
                 "shape_area_m2": 8.342136752408992
             },
-            "image_url": "images/map/202402603C00810034_cropped_37.tif"
+            "image_url": "images/map/202402603C00810034_cropped_37.png"
         },
         {
             "shape_attributes": {
@@ -1105,7 +1105,7 @@
                 "mean_point_longitude": 127.36675785811182,
                 "shape_area_m2": 142.57028453433063
             },
-            "image_url": "images/map/202402603C00810034_cropped_38.tif"
+            "image_url": "images/map/202402603C00810034_cropped_38.png"
         },
         {
             "shape_attributes": {
@@ -1131,7 +1131,7 @@
                 "mean_point_longitude": 127.36694971656179,
                 "shape_area_m2": 3.7817283924051517
             },
-            "image_url": "images/map/202402603C00810034_cropped_39.tif"
+            "image_url": "images/map/202402603C00810034_cropped_39.png"
         },
         {
             "shape_attributes": {
@@ -1167,7 +1167,7 @@
                 "mean_point_longitude": 127.36894069799546,
                 "shape_area_m2": 279.63825681099735
             },
-            "image_url": "images/map/202402603C00810034_cropped_40.tif"
+            "image_url": "images/map/202402603C00810034_cropped_40.png"
         },
         {
             "shape_attributes": {
@@ -1199,7 +1199,7 @@
                 "mean_point_longitude": 127.36932719973002,
                 "shape_area_m2": 186.73449430489853
             },
-            "image_url": "images/map/202402603C00810034_cropped_41.tif"
+            "image_url": "images/map/202402603C00810034_cropped_41.png"
         },
         {
             "shape_attributes": {
@@ -1223,7 +1223,7 @@
                 "mean_point_longitude": 127.36949667138235,
                 "shape_area_m2": 21.56449640184323
             },
-            "image_url": "images/map/202402603C00810034_cropped_42.tif"
+            "image_url": "images/map/202402603C00810034_cropped_42.png"
         },
         {
             "shape_attributes": {
@@ -1265,7 +1265,7 @@
                 "mean_point_longitude": 127.35729141912066,
                 "shape_area_m2": 218.8665652688249
             },
-            "image_url": "images/map/202402603C00810034_cropped_43.tif"
+            "image_url": "images/map/202402603C00810034_cropped_43.png"
         },
         {
             "shape_attributes": {
@@ -1289,7 +1289,7 @@
                 "mean_point_longitude": 127.36046200156893,
                 "shape_area_m2": 18.62817161169285
             },
-            "image_url": "images/map/202402603C00810034_cropped_44.tif"
+            "image_url": "images/map/202402603C00810034_cropped_44.png"
         },
         {
             "shape_attributes": {
@@ -1327,7 +1327,7 @@
                 "mean_point_longitude": 127.35989835746751,
                 "shape_area_m2": 20.261090350043972
             },
-            "image_url": "images/map/202402603C00810034_cropped_45.tif"
+            "image_url": "images/map/202402603C00810034_cropped_45.png"
         },
         {
             "shape_attributes": {
@@ -1357,7 +1357,7 @@
                 "mean_point_longitude": 127.36078659211447,
                 "shape_area_m2": 56.60317076972554
             },
-            "image_url": "images/map/202402603C00810034_cropped_46.tif"
+            "image_url": "images/map/202402603C00810034_cropped_46.png"
         },
         {
             "shape_attributes": {
@@ -1393,7 +1393,7 @@
                 "mean_point_longitude": 127.3609403473251,
                 "shape_area_m2": 134.00180900251263
             },
-            "image_url": "images/map/202402603C00810034_cropped_47.tif"
+            "image_url": "images/map/202402603C00810034_cropped_47.png"
         },
         {
             "shape_attributes": {
@@ -1415,7 +1415,7 @@
                 "mean_point_longitude": 127.36158701924025,
                 "shape_area_m2": 7.403624385358916
             },
-            "image_url": "images/map/202402603C00810034_cropped_48.tif"
+            "image_url": "images/map/202402603C00810034_cropped_48.png"
         },
         {
             "shape_attributes": {
@@ -1441,7 +1441,7 @@
                 "mean_point_longitude": 127.36317747833432,
                 "shape_area_m2": 9.292896626367318
             },
-            "image_url": "images/map/202402603C00810034_cropped_49.tif"
+            "image_url": "images/map/202402603C00810034_cropped_49.png"
         },
         {
             "shape_attributes": {
@@ -1465,7 +1465,7 @@
                 "mean_point_longitude": 127.36550667252841,
                 "shape_area_m2": 20.040497016156607
             },
-            "image_url": "images/map/202402603C00810034_cropped_50.tif"
+            "image_url": "images/map/202402603C00810034_cropped_50.png"
         },
         {
             "shape_attributes": {
@@ -1489,7 +1489,7 @@
                 "mean_point_longitude": 127.36565937088506,
                 "shape_area_m2": 39.97236250546104
             },
-            "image_url": "images/map/202402603C00810034_cropped_51.tif"
+            "image_url": "images/map/202402603C00810034_cropped_51.png"
         },
         {
             "shape_attributes": {
@@ -1523,7 +1523,7 @@
                 "mean_point_longitude": 127.36466357267551,
                 "shape_area_m2": 117.4875642493818
             },
-            "image_url": "images/map/202402603C00810034_cropped_52.tif"
+            "image_url": "images/map/202402603C00810034_cropped_52.png"
         },
         {
             "shape_attributes": {
@@ -1547,7 +1547,7 @@
                 "mean_point_longitude": 127.36547506918468,
                 "shape_area_m2": 27.30218502881935
             },
-            "image_url": "images/map/202402603C00810034_cropped_53.tif"
+            "image_url": "images/map/202402603C00810034_cropped_53.png"
         },
         {
             "shape_attributes": {
@@ -1581,7 +1581,7 @@
                 "mean_point_longitude": 127.36543678069704,
                 "shape_area_m2": 377.06173889102064
             },
-            "image_url": "images/map/202402603C00810034_cropped_54.tif"
+            "image_url": "images/map/202402603C00810034_cropped_54.png"
         },
         {
             "shape_attributes": {
@@ -1619,7 +1619,7 @@
                 "mean_point_longitude": 127.36540154046908,
                 "shape_area_m2": 415.3161293598437
             },
-            "image_url": "images/map/202402603C00810034_cropped_55.tif"
+            "image_url": "images/map/202402603C00810034_cropped_55.png"
         },
         {
             "shape_attributes": {
@@ -1645,7 +1645,7 @@
                 "mean_point_longitude": 127.36565805590543,
                 "shape_area_m2": 13.171193853212664
             },
-            "image_url": "images/map/202402603C00810034_cropped_56.tif"
+            "image_url": "images/map/202402603C00810034_cropped_56.png"
         },
         {
             "shape_attributes": {
@@ -1669,7 +1669,7 @@
                 "mean_point_longitude": 127.36578292052658,
                 "shape_area_m2": 63.4354479442258
             },
-            "image_url": "images/map/202402603C00810034_cropped_57.tif"
+            "image_url": "images/map/202402603C00810034_cropped_57.png"
         },
         {
             "shape_attributes": {
@@ -1693,7 +1693,7 @@
                 "mean_point_longitude": 127.36574354419216,
                 "shape_area_m2": 45.112370424758296
             },
-            "image_url": "images/map/202402603C00810034_cropped_58.tif"
+            "image_url": "images/map/202402603C00810034_cropped_58.png"
         },
         {
             "shape_attributes": {
@@ -1717,7 +1717,7 @@
                 "mean_point_longitude": 127.36574170322068,
                 "shape_area_m2": 42.81863706732527
             },
-            "image_url": "images/map/202402603C00810034_cropped_59.tif"
+            "image_url": "images/map/202402603C00810034_cropped_59.png"
         },
         {
             "shape_attributes": {
@@ -1739,7 +1739,7 @@
                 "mean_point_longitude": 127.36577363384824,
                 "shape_area_m2": 19.666241276541868
             },
-            "image_url": "images/map/202402603C00810034_cropped_60.tif"
+            "image_url": "images/map/202402603C00810034_cropped_60.png"
         },
         {
             "shape_attributes": {
@@ -1769,7 +1769,7 @@
                 "mean_point_longitude": 127.36683220608596,
                 "shape_area_m2": 7.035314705817268
             },
-            "image_url": "images/map/202402603C00810034_cropped_61.tif"
+            "image_url": "images/map/202402603C00810034_cropped_61.png"
         },
         {
             "shape_attributes": {
@@ -1793,7 +1793,7 @@
                 "mean_point_longitude": 127.36646111396452,
                 "shape_area_m2": 15.806164717205837
             },
-            "image_url": "images/map/202402603C00810034_cropped_62.tif"
+            "image_url": "images/map/202402603C00810034_cropped_62.png"
         },
         {
             "shape_attributes": {
@@ -1827,7 +1827,7 @@
                 "mean_point_longitude": 127.36588837657973,
                 "shape_area_m2": 65.20752614586397
             },
-            "image_url": "images/map/202402603C00810034_cropped_63.tif"
+            "image_url": "images/map/202402603C00810034_cropped_63.png"
         },
         {
             "shape_attributes": {
@@ -1853,7 +1853,7 @@
                 "mean_point_longitude": 127.36814468238282,
                 "shape_area_m2": 70.07865789160957
             },
-            "image_url": "images/map/202402603C00810034_cropped_64.tif"
+            "image_url": "images/map/202402603C00810034_cropped_64.png"
         },
         {
             "shape_attributes": {
@@ -1879,7 +1879,7 @@
                 "mean_point_longitude": 127.36813039293752,
                 "shape_area_m2": 27.425995590916152
             },
-            "image_url": "images/map/202402603C00810034_cropped_65.tif"
+            "image_url": "images/map/202402603C00810034_cropped_65.png"
         },
         {
             "shape_attributes": {
@@ -1907,7 +1907,7 @@
                 "mean_point_longitude": 127.36813678154688,
                 "shape_area_m2": 28.117132843980148
             },
-            "image_url": "images/map/202402603C00810034_cropped_66.tif"
+            "image_url": "images/map/202402603C00810034_cropped_66.png"
         },
         {
             "shape_attributes": {
@@ -1943,7 +1943,7 @@
                 "mean_point_longitude": 127.36852514982198,
                 "shape_area_m2": 87.15236800533135
             },
-            "image_url": "images/map/202402603C00810034_cropped_67.tif"
+            "image_url": "images/map/202402603C00810034_cropped_67.png"
         },
         {
             "shape_attributes": {
@@ -1969,7 +1969,7 @@
                 "mean_point_longitude": 127.36855539435344,
                 "shape_area_m2": 81.17017413209314
             },
-            "image_url": "images/map/202402603C00810034_cropped_68.tif"
+            "image_url": "images/map/202402603C00810034_cropped_68.png"
         },
         {
             "shape_attributes": {
@@ -1993,7 +1993,7 @@
                 "mean_point_longitude": 127.36826680015764,
                 "shape_area_m2": 43.25626945417241
             },
-            "image_url": "images/map/202402603C00810034_cropped_69.tif"
+            "image_url": "images/map/202402603C00810034_cropped_69.png"
         },
         {
             "shape_attributes": {
@@ -2051,7 +2051,7 @@
                 "mean_point_longitude": 127.35704199683396,
                 "shape_area_m2": 107.44818633073791
             },
-            "image_url": "images/map/202402603C00810034_cropped_70.tif"
+            "image_url": "images/map/202402603C00810034_cropped_70.png"
         },
         {
             "shape_attributes": {
@@ -2091,7 +2091,7 @@
                 "mean_point_longitude": 127.3571124416267,
                 "shape_area_m2": 44.73283606446966
             },
-            "image_url": "images/map/202402603C00810034_cropped_71.tif"
+            "image_url": "images/map/202402603C00810034_cropped_71.png"
         },
         {
             "shape_attributes": {
@@ -2115,7 +2115,7 @@
                 "mean_point_longitude": 127.35936110062399,
                 "shape_area_m2": 9.929986246822585
             },
-            "image_url": "images/map/202402603C00810034_cropped_72.tif"
+            "image_url": "images/map/202402603C00810034_cropped_72.png"
         },
         {
             "shape_attributes": {
@@ -2141,7 +2141,7 @@
                 "mean_point_longitude": 127.35871294716513,
                 "shape_area_m2": 12.069795107247499
             },
-            "image_url": "images/map/202402603C00810034_cropped_73.tif"
+            "image_url": "images/map/202402603C00810034_cropped_73.png"
         },
         {
             "shape_attributes": {
@@ -2167,7 +2167,7 @@
                 "mean_point_longitude": 127.36185224186477,
                 "shape_area_m2": 3.860283984197287
             },
-            "image_url": "images/map/202402603C00810034_cropped_74.tif"
+            "image_url": "images/map/202402603C00810034_cropped_74.png"
         },
         {
             "shape_attributes": {
@@ -2201,7 +2201,7 @@
                 "mean_point_longitude": 127.36265780635473,
                 "shape_area_m2": 10.693530421707823
             },
-            "image_url": "images/map/202402603C00810034_cropped_75.tif"
+            "image_url": "images/map/202402603C00810034_cropped_75.png"
         },
         {
             "shape_attributes": {
@@ -2223,7 +2223,7 @@
                 "mean_point_longitude": 127.36300824922267,
                 "shape_area_m2": 12.528590245839464
             },
-            "image_url": "images/map/202402603C00810034_cropped_76.tif"
+            "image_url": "images/map/202402603C00810034_cropped_76.png"
         },
         {
             "shape_attributes": {
@@ -2245,7 +2245,7 @@
                 "mean_point_longitude": 127.36215011105021,
                 "shape_area_m2": 20.88602548116223
             },
-            "image_url": "images/map/202402603C00810034_cropped_77.tif"
+            "image_url": "images/map/202402603C00810034_cropped_77.png"
         },
         {
             "shape_attributes": {
@@ -2273,7 +2273,7 @@
                 "mean_point_longitude": 127.36217970466674,
                 "shape_area_m2": 26.750477749304753
             },
-            "image_url": "images/map/202402603C00810034_cropped_78.tif"
+            "image_url": "images/map/202402603C00810034_cropped_78.png"
         },
         {
             "shape_attributes": {
@@ -2309,7 +2309,7 @@
                 "mean_point_longitude": 127.36260028994275,
                 "shape_area_m2": 20.593223806121507
             },
-            "image_url": "images/map/202402603C00810034_cropped_79.tif"
+            "image_url": "images/map/202402603C00810034_cropped_79.png"
         },
         {
             "shape_attributes": {
@@ -2333,7 +2333,7 @@
                 "mean_point_longitude": 127.36263567750564,
                 "shape_area_m2": 4.874393530449811
             },
-            "image_url": "images/map/202402603C00810034_cropped_80.tif"
+            "image_url": "images/map/202402603C00810034_cropped_80.png"
         },
         {
             "shape_attributes": {
@@ -2355,7 +2355,7 @@
                 "mean_point_longitude": 127.363872033041,
                 "shape_area_m2": 10.63915683174063
             },
-            "image_url": "images/map/202402603C00810034_cropped_81.tif"
+            "image_url": "images/map/202402603C00810034_cropped_81.png"
         },
         {
             "shape_attributes": {
@@ -2377,7 +2377,7 @@
                 "mean_point_longitude": 127.36430012027579,
                 "shape_area_m2": 9.637170743743495
             },
-            "image_url": "images/map/202402603C00810034_cropped_82.tif"
+            "image_url": "images/map/202402603C00810034_cropped_82.png"
         },
         {
             "shape_attributes": {
@@ -2403,7 +2403,7 @@
                 "mean_point_longitude": 127.36372643849654,
                 "shape_area_m2": 13.926050086463105
             },
-            "image_url": "images/map/202402603C00810034_cropped_83.tif"
+            "image_url": "images/map/202402603C00810034_cropped_83.png"
         },
         {
             "shape_attributes": {
@@ -2427,7 +2427,7 @@
                 "mean_point_longitude": 127.3637818868042,
                 "shape_area_m2": 19.30745579728373
             },
-            "image_url": "images/map/202402603C00810034_cropped_84.tif"
+            "image_url": "images/map/202402603C00810034_cropped_84.png"
         },
         {
             "shape_attributes": {
@@ -2457,7 +2457,7 @@
                 "mean_point_longitude": 127.36959666340736,
                 "shape_area_m2": 29.99488082554979
             },
-            "image_url": "images/map/202402603C00810034_cropped_85.tif"
+            "image_url": "images/map/202402603C00810034_cropped_85.png"
         },
         {
             "shape_attributes": {
@@ -2487,7 +2487,7 @@
                 "mean_point_longitude": 127.37039700871219,
                 "shape_area_m2": 11.149189799459537
             },
-            "image_url": "images/map/202402603C00810034_cropped_86.tif"
+            "image_url": "images/map/202402603C00810034_cropped_86.png"
         },
         {
             "shape_attributes": {
@@ -2519,7 +2519,7 @@
                 "mean_point_longitude": 127.35712702036751,
                 "shape_area_m2": 13.210935527648468
             },
-            "image_url": "images/map/202402603C00810034_cropped_87.tif"
+            "image_url": "images/map/202402603C00810034_cropped_87.png"
         },
         {
             "shape_attributes": {
@@ -2541,7 +2541,7 @@
                 "mean_point_longitude": 127.35904525128377,
                 "shape_area_m2": 11.602146492343726
             },
-            "image_url": "images/map/202402603C00810034_cropped_88.tif"
+            "image_url": "images/map/202402603C00810034_cropped_88.png"
         },
         {
             "shape_attributes": {
@@ -2569,7 +2569,7 @@
                 "mean_point_longitude": 127.3594591323553,
                 "shape_area_m2": 17.379162371890263
             },
-            "image_url": "images/map/202402603C00810034_cropped_89.tif"
+            "image_url": "images/map/202402603C00810034_cropped_89.png"
         },
         {
             "shape_attributes": {
@@ -2597,7 +2597,7 @@
                 "mean_point_longitude": 127.36282289407751,
                 "shape_area_m2": 29.0295278376768
             },
-            "image_url": "images/map/202402603C00810034_cropped_90.tif"
+            "image_url": "images/map/202402603C00810034_cropped_90.png"
         },
         {
             "shape_attributes": {
@@ -2627,7 +2627,7 @@
                 "mean_point_longitude": 127.36307764702904,
                 "shape_area_m2": 54.78400648340809
             },
-            "image_url": "images/map/202402603C00810034_cropped_91.tif"
+            "image_url": "images/map/202402603C00810034_cropped_91.png"
         },
         {
             "shape_attributes": {
@@ -2659,7 +2659,7 @@
                 "mean_point_longitude": 127.36544403858763,
                 "shape_area_m2": 92.15911933287099
             },
-            "image_url": "images/map/202402603C00810034_cropped_92.tif"
+            "image_url": "images/map/202402603C00810034_cropped_92.png"
         },
         {
             "shape_attributes": {
@@ -2689,7 +2689,7 @@
                 "mean_point_longitude": 127.36567546233947,
                 "shape_area_m2": 10.189554511783296
             },
-            "image_url": "images/map/202402603C00810034_cropped_93.tif"
+            "image_url": "images/map/202402603C00810034_cropped_93.png"
         },
         {
             "shape_attributes": {
@@ -2719,7 +2719,7 @@
                 "mean_point_longitude": 127.36587435544341,
                 "shape_area_m2": 95.8775537922158
             },
-            "image_url": "images/map/202402603C00810034_cropped_94.tif"
+            "image_url": "images/map/202402603C00810034_cropped_94.png"
         },
         {
             "shape_attributes": {
@@ -2749,7 +2749,7 @@
                 "mean_point_longitude": 127.36609220373519,
                 "shape_area_m2": 10.114100193433046
             },
-            "image_url": "images/map/202402603C00810034_cropped_95.tif"
+            "image_url": "images/map/202402603C00810034_cropped_95.png"
         },
         {
             "shape_attributes": {
@@ -2777,7 +2777,7 @@
                 "mean_point_longitude": 127.36656789031035,
                 "shape_area_m2": 4.1379870502189435
             },
-            "image_url": "images/map/202402603C00810034_cropped_96.tif"
+            "image_url": "images/map/202402603C00810034_cropped_96.png"
         },
         {
             "shape_attributes": {
@@ -2833,7 +2833,7 @@
                 "mean_point_longitude": 127.36789581651095,
                 "shape_area_m2": 92.27393338908279
             },
-            "image_url": "images/map/202402603C00810034_cropped_97.tif"
+            "image_url": "images/map/202402603C00810034_cropped_97.png"
         },
         {
             "shape_attributes": {
@@ -2861,7 +2861,7 @@
                 "mean_point_longitude": 127.3707033259112,
                 "shape_area_m2": 44.337968552841886
             },
-            "image_url": "images/map/202402603C00810034_cropped_98.tif"
+            "image_url": "images/map/202402603C00810034_cropped_98.png"
         },
         {
             "shape_attributes": {
@@ -2887,7 +2887,7 @@
                 "mean_point_longitude": 127.37027863132386,
                 "shape_area_m2": 10.47021323535118
             },
-            "image_url": "images/map/202402603C00810034_cropped_99.tif"
+            "image_url": "images/map/202402603C00810034_cropped_99.png"
         },
         {
             "shape_attributes": {
@@ -2915,7 +2915,7 @@
                 "mean_point_longitude": 127.36994200749713,
                 "shape_area_m2": 12.552833238986373
             },
-            "image_url": "images/map/202402603C00810034_cropped_100.tif"
+            "image_url": "images/map/202402603C00810034_cropped_100.png"
         },
         {
             "shape_attributes": {
@@ -2939,7 +2939,7 @@
                 "mean_point_longitude": 127.35868597547186,
                 "shape_area_m2": 22.187463295255363
             },
-            "image_url": "images/map/202402603C00810034_cropped_101.tif"
+            "image_url": "images/map/202402603C00810034_cropped_101.png"
         },
         {
             "shape_attributes": {
@@ -2963,7 +2963,7 @@
                 "mean_point_longitude": 127.35864956514705,
                 "shape_area_m2": 11.382054996981404
             },
-            "image_url": "images/map/202402603C00810034_cropped_102.tif"
+            "image_url": "images/map/202402603C00810034_cropped_102.png"
         },
         {
             "shape_attributes": {
@@ -2985,7 +2985,7 @@
                 "mean_point_longitude": 127.35875781427005,
                 "shape_area_m2": 16.452777113697227
             },
-            "image_url": "images/map/202402603C00810034_cropped_103.tif"
+            "image_url": "images/map/202402603C00810034_cropped_103.png"
         },
         {
             "shape_attributes": {
@@ -3009,7 +3009,7 @@
                 "mean_point_longitude": 127.35994632500218,
                 "shape_area_m2": 23.693543926161333
             },
-            "image_url": "images/map/202402603C00810034_cropped_104.tif"
+            "image_url": "images/map/202402603C00810034_cropped_104.png"
         },
         {
             "shape_attributes": {
@@ -3033,7 +3033,7 @@
                 "mean_point_longitude": 127.35998058752695,
                 "shape_area_m2": 17.355176686057803
             },
-            "image_url": "images/map/202402603C00810034_cropped_105.tif"
+            "image_url": "images/map/202402603C00810034_cropped_105.png"
         },
         {
             "shape_attributes": {
@@ -3061,7 +3061,7 @@
                 "mean_point_longitude": 127.36052904361365,
                 "shape_area_m2": 21.08275373459715
             },
-            "image_url": "images/map/202402603C00810034_cropped_106.tif"
+            "image_url": "images/map/202402603C00810034_cropped_106.png"
         },
         {
             "shape_attributes": {
@@ -3087,7 +3087,7 @@
                 "mean_point_longitude": 127.36022736537056,
                 "shape_area_m2": 16.60659874978966
             },
-            "image_url": "images/map/202402603C00810034_cropped_107.tif"
+            "image_url": "images/map/202402603C00810034_cropped_107.png"
         },
         {
             "shape_attributes": {
@@ -3109,7 +3109,7 @@
                 "mean_point_longitude": 127.36023083691677,
                 "shape_area_m2": 16.516042192759716
             },
-            "image_url": "images/map/202402603C00810034_cropped_108.tif"
+            "image_url": "images/map/202402603C00810034_cropped_108.png"
         },
         {
             "shape_attributes": {
@@ -3133,7 +3133,7 @@
                 "mean_point_longitude": 127.3602220616194,
                 "shape_area_m2": 17.14989677437875
             },
-            "image_url": "images/map/202402603C00810034_cropped_109.tif"
+            "image_url": "images/map/202402603C00810034_cropped_109.png"
         },
         {
             "shape_attributes": {
@@ -3157,7 +3157,7 @@
                 "mean_point_longitude": 127.35997731468876,
                 "shape_area_m2": 17.605671127501502
             },
-            "image_url": "images/map/202402603C00810034_cropped_110.tif"
+            "image_url": "images/map/202402603C00810034_cropped_110.png"
         },
         {
             "shape_attributes": {
@@ -3183,7 +3183,7 @@
                 "mean_point_longitude": 127.36052279746042,
                 "shape_area_m2": 20.95897026534951
             },
-            "image_url": "images/map/202402603C00810034_cropped_111.tif"
+            "image_url": "images/map/202402603C00810034_cropped_111.png"
         },
         {
             "shape_attributes": {
@@ -3211,7 +3211,7 @@
                 "mean_point_longitude": 127.35993448653281,
                 "shape_area_m2": 26.394909363823096
             },
-            "image_url": "images/map/202402603C00810034_cropped_112.tif"
+            "image_url": "images/map/202402603C00810034_cropped_112.png"
         },
         {
             "shape_attributes": {
@@ -3241,7 +3241,7 @@
                 "mean_point_longitude": 127.36052169677376,
                 "shape_area_m2": 20.780932647125702
             },
-            "image_url": "images/map/202402603C00810034_cropped_113.tif"
+            "image_url": "images/map/202402603C00810034_cropped_113.png"
         },
         {
             "shape_attributes": {
@@ -3265,7 +3265,7 @@
                 "mean_point_longitude": 127.35997956476503,
                 "shape_area_m2": 16.564376783950507
             },
-            "image_url": "images/map/202402603C00810034_cropped_114.tif"
+            "image_url": "images/map/202402603C00810034_cropped_114.png"
         },
         {
             "shape_attributes": {
@@ -3293,7 +3293,7 @@
                 "mean_point_longitude": 127.36053579384242,
                 "shape_area_m2": 22.374573881264762
             },
-            "image_url": "images/map/202402603C00810034_cropped_115.tif"
+            "image_url": "images/map/202402603C00810034_cropped_115.png"
         },
         {
             "shape_attributes": {
@@ -3315,7 +3315,7 @@
                 "mean_point_longitude": 127.35997334637247,
                 "shape_area_m2": 17.050313897540768
             },
-            "image_url": "images/map/202402603C00810034_cropped_116.tif"
+            "image_url": "images/map/202402603C00810034_cropped_116.png"
         },
         {
             "shape_attributes": {
@@ -3339,7 +3339,7 @@
                 "mean_point_longitude": 127.360194344771,
                 "shape_area_m2": 6.2418172128726965
             },
-            "image_url": "images/map/202402603C00810034_cropped_117.tif"
+            "image_url": "images/map/202402603C00810034_cropped_117.png"
         },
         {
             "shape_attributes": {
@@ -3365,7 +3365,7 @@
                 "mean_point_longitude": 127.3605093846682,
                 "shape_area_m2": 16.229323581961708
             },
-            "image_url": "images/map/202402603C00810034_cropped_118.tif"
+            "image_url": "images/map/202402603C00810034_cropped_118.png"
         },
         {
             "shape_attributes": {
@@ -3391,7 +3391,7 @@
                 "mean_point_longitude": 127.36049965381895,
                 "shape_area_m2": 12.975616855146436
             },
-            "image_url": "images/map/202402603C00810034_cropped_119.tif"
+            "image_url": "images/map/202402603C00810034_cropped_119.png"
         },
         {
             "shape_attributes": {
@@ -3461,7 +3461,7 @@
                 "mean_point_longitude": 127.36161947535584,
                 "shape_area_m2": 1471.3502658535153
             },
-            "image_url": "images/map/202402603C00810034_cropped_120.tif"
+            "image_url": "images/map/202402603C00810034_cropped_120.png"
         },
         {
             "shape_attributes": {
@@ -3491,7 +3491,7 @@
                 "mean_point_longitude": 127.36764100622275,
                 "shape_area_m2": 81.86751284202842
             },
-            "image_url": "images/map/202402603C00810034_cropped_121.tif"
+            "image_url": "images/map/202402603C00810034_cropped_121.png"
         },
         {
             "shape_attributes": {
@@ -3521,7 +3521,7 @@
                 "mean_point_longitude": 127.36713296627846,
                 "shape_area_m2": 26.645379464270402
             },
-            "image_url": "images/map/202402603C00810034_cropped_122.tif"
+            "image_url": "images/map/202402603C00810034_cropped_122.png"
         },
         {
             "shape_attributes": {
@@ -3547,7 +3547,7 @@
                 "mean_point_longitude": 127.35852674604975,
                 "shape_area_m2": 25.157729825151062
             },
-            "image_url": "images/map/202402603C00810034_cropped_123.tif"
+            "image_url": "images/map/202402603C00810034_cropped_123.png"
         },
         {
             "shape_attributes": {
@@ -3573,7 +3573,7 @@
                 "mean_point_longitude": 127.35874091239856,
                 "shape_area_m2": 9.042950709859197
             },
-            "image_url": "images/map/202402603C00810034_cropped_124.tif"
+            "image_url": "images/map/202402603C00810034_cropped_124.png"
         },
         {
             "shape_attributes": {
@@ -3595,7 +3595,7 @@
                 "mean_point_longitude": 127.36066812900896,
                 "shape_area_m2": 2.8734579978834387
             },
-            "image_url": "images/map/202402603C00810034_cropped_125.tif"
+            "image_url": "images/map/202402603C00810034_cropped_125.png"
         },
         {
             "shape_attributes": {
@@ -3633,7 +3633,7 @@
                 "mean_point_longitude": 127.36190190089033,
                 "shape_area_m2": 26.573478773617566
             },
-            "image_url": "images/map/202402603C00810034_cropped_126.tif"
+            "image_url": "images/map/202402603C00810034_cropped_126.png"
         },
         {
             "shape_attributes": {
@@ -3671,7 +3671,7 @@
                 "mean_point_longitude": 127.36201198154394,
                 "shape_area_m2": 97.84545077488643
             },
-            "image_url": "images/map/202402603C00810034_cropped_127.tif"
+            "image_url": "images/map/202402603C00810034_cropped_127.png"
         },
         {
             "shape_attributes": {
@@ -3697,7 +3697,7 @@
                 "mean_point_longitude": 127.36687958431494,
                 "shape_area_m2": 12.332878829781947
             },
-            "image_url": "images/map/202402603C00810034_cropped_128.tif"
+            "image_url": "images/map/202402603C00810034_cropped_128.png"
         },
         {
             "shape_attributes": {
@@ -3725,7 +3725,7 @@
                 "mean_point_longitude": 127.36636338906179,
                 "shape_area_m2": 19.3112789028975
             },
-            "image_url": "images/map/202402603C00810034_cropped_129.tif"
+            "image_url": "images/map/202402603C00810034_cropped_129.png"
         },
         {
             "shape_attributes": {
@@ -3755,7 +3755,7 @@
                 "mean_point_longitude": 127.36598201818292,
                 "shape_area_m2": 12.139745400614785
             },
-            "image_url": "images/map/202402603C00810034_cropped_130.tif"
+            "image_url": "images/map/202402603C00810034_cropped_130.png"
         },
         {
             "shape_attributes": {
@@ -3785,7 +3785,7 @@
                 "mean_point_longitude": 127.36667517803714,
                 "shape_area_m2": 12.58341179273856
             },
-            "image_url": "images/map/202402603C00810034_cropped_131.tif"
+            "image_url": "images/map/202402603C00810034_cropped_131.png"
         },
         {
             "shape_attributes": {
@@ -3817,7 +3817,7 @@
                 "mean_point_longitude": 127.36645614334152,
                 "shape_area_m2": 7.796358045666178
             },
-            "image_url": "images/map/202402603C00810034_cropped_132.tif"
+            "image_url": "images/map/202402603C00810034_cropped_132.png"
         },
         {
             "shape_attributes": {
@@ -3847,7 +3847,7 @@
                 "mean_point_longitude": 127.36663863134406,
                 "shape_area_m2": 33.05368524304447
             },
-            "image_url": "images/map/202402603C00810034_cropped_133.tif"
+            "image_url": "images/map/202402603C00810034_cropped_133.png"
         },
         {
             "shape_attributes": {
@@ -3877,7 +3877,7 @@
                 "mean_point_longitude": 127.36631032476349,
                 "shape_area_m2": 6.694666747599381
             },
-            "image_url": "images/map/202402603C00810034_cropped_134.tif"
+            "image_url": "images/map/202402603C00810034_cropped_134.png"
         },
         {
             "shape_attributes": {
@@ -3909,7 +3909,7 @@
                 "mean_point_longitude": 127.36628530118819,
                 "shape_area_m2": 14.062414937324181
             },
-            "image_url": "images/map/202402603C00810034_cropped_135.tif"
+            "image_url": "images/map/202402603C00810034_cropped_135.png"
         },
         {
             "shape_attributes": {
@@ -3935,7 +3935,7 @@
                 "mean_point_longitude": 127.36606149165543,
                 "shape_area_m2": 31.828068853296482
             },
-            "image_url": "images/map/202402603C00810034_cropped_136.tif"
+            "image_url": "images/map/202402603C00810034_cropped_136.png"
         },
         {
             "shape_attributes": {
@@ -3963,7 +3963,7 @@
                 "mean_point_longitude": 127.36646119067166,
                 "shape_area_m2": 9.89108620059227
             },
-            "image_url": "images/map/202402603C00810034_cropped_137.tif"
+            "image_url": "images/map/202402603C00810034_cropped_137.png"
         },
         {
             "shape_attributes": {
@@ -3989,7 +3989,7 @@
                 "mean_point_longitude": 127.3569354453687,
                 "shape_area_m2": 15.022417163481961
             },
-            "image_url": "images/map/202402603C00810034_cropped_138.tif"
+            "image_url": "images/map/202402603C00810034_cropped_138.png"
         },
         {
             "shape_attributes": {
@@ -4039,7 +4039,7 @@
                 "mean_point_longitude": 127.35935830686903,
                 "shape_area_m2": 172.17159780708587
             },
-            "image_url": "images/map/202402603C00810034_cropped_139.tif"
+            "image_url": "images/map/202402603C00810034_cropped_139.png"
         },
         {
             "shape_attributes": {
@@ -4069,7 +4069,7 @@
                 "mean_point_longitude": 127.35919660641306,
                 "shape_area_m2": 26.908869190586863
             },
-            "image_url": "images/map/202402603C00810034_cropped_140.tif"
+            "image_url": "images/map/202402603C00810034_cropped_140.png"
         },
         {
             "shape_attributes": {
@@ -4093,7 +4093,7 @@
                 "mean_point_longitude": 127.35918610605721,
                 "shape_area_m2": 5.004491129178273
             },
-            "image_url": "images/map/202402603C00810034_cropped_141.tif"
+            "image_url": "images/map/202402603C00810034_cropped_141.png"
         },
         {
             "shape_attributes": {
@@ -4125,7 +4125,7 @@
                 "mean_point_longitude": 127.35945284236941,
                 "shape_area_m2": 82.72787227754502
             },
-            "image_url": "images/map/202402603C00810034_cropped_142.tif"
+            "image_url": "images/map/202402603C00810034_cropped_142.png"
         },
         {
             "shape_attributes": {
@@ -4157,7 +4157,7 @@
                 "mean_point_longitude": 127.3615365766217,
                 "shape_area_m2": 12.72841522540515
             },
-            "image_url": "images/map/202402603C00810034_cropped_143.tif"
+            "image_url": "images/map/202402603C00810034_cropped_143.png"
         },
         {
             "shape_attributes": {
@@ -4183,7 +4183,7 @@
                 "mean_point_longitude": 127.3608081480398,
                 "shape_area_m2": 22.972751770940015
             },
-            "image_url": "images/map/202402603C00810034_cropped_144.tif"
+            "image_url": "images/map/202402603C00810034_cropped_144.png"
         },
         {
             "shape_attributes": {
@@ -4207,7 +4207,7 @@
                 "mean_point_longitude": 127.36182370680683,
                 "shape_area_m2": 2.8251778589998024
             },
-            "image_url": "images/map/202402603C00810034_cropped_145.tif"
+            "image_url": "images/map/202402603C00810034_cropped_145.png"
         },
         {
             "shape_attributes": {
@@ -4241,7 +4241,7 @@
                 "mean_point_longitude": 127.36161726695953,
                 "shape_area_m2": 16.661302129507625
             },
-            "image_url": "images/map/202402603C00810034_cropped_146.tif"
+            "image_url": "images/map/202402603C00810034_cropped_146.png"
         },
         {
             "shape_attributes": {
@@ -4315,7 +4315,7 @@
                 "mean_point_longitude": 127.36157936238253,
                 "shape_area_m2": 322.3480123452424
             },
-            "image_url": "images/map/202402603C00810034_cropped_147.tif"
+            "image_url": "images/map/202402603C00810034_cropped_147.png"
         },
         {
             "shape_attributes": {
@@ -4361,7 +4361,7 @@
                 "mean_point_longitude": 127.36248546385887,
                 "shape_area_m2": 151.49773830925184
             },
-            "image_url": "images/map/202402603C00810034_cropped_148.tif"
+            "image_url": "images/map/202402603C00810034_cropped_148.png"
         },
         {
             "shape_attributes": {
@@ -4387,7 +4387,7 @@
                 "mean_point_longitude": 127.36259669566509,
                 "shape_area_m2": 8.225056532456195
             },
-            "image_url": "images/map/202402603C00810034_cropped_149.tif"
+            "image_url": "images/map/202402603C00810034_cropped_149.png"
         },
         {
             "shape_attributes": {
@@ -4425,7 +4425,7 @@
                 "mean_point_longitude": 127.3625702679463,
                 "shape_area_m2": 162.12626609482467
             },
-            "image_url": "images/map/202402603C00810034_cropped_150.tif"
+            "image_url": "images/map/202402603C00810034_cropped_150.png"
         },
         {
             "shape_attributes": {
@@ -4463,7 +4463,7 @@
                 "mean_point_longitude": 127.36230908601816,
                 "shape_area_m2": 45.00977463022652
             },
-            "image_url": "images/map/202402603C00810034_cropped_151.tif"
+            "image_url": "images/map/202402603C00810034_cropped_151.png"
         },
         {
             "shape_attributes": {
@@ -4519,7 +4519,7 @@
                 "mean_point_longitude": 127.36224283464708,
                 "shape_area_m2": 53.159336589273614
             },
-            "image_url": "images/map/202402603C00810034_cropped_152.tif"
+            "image_url": "images/map/202402603C00810034_cropped_152.png"
         },
         {
             "shape_attributes": {
@@ -4547,7 +4547,7 @@
                 "mean_point_longitude": 127.36220018547446,
                 "shape_area_m2": 29.293158611331297
             },
-            "image_url": "images/map/202402603C00810034_cropped_153.tif"
+            "image_url": "images/map/202402603C00810034_cropped_153.png"
         },
         {
             "shape_attributes": {
@@ -4585,7 +4585,7 @@
                 "mean_point_longitude": 127.3623328770342,
                 "shape_area_m2": 53.19550108670061
             },
-            "image_url": "images/map/202402603C00810034_cropped_154.tif"
+            "image_url": "images/map/202402603C00810034_cropped_154.png"
         },
         {
             "shape_attributes": {
@@ -4613,7 +4613,7 @@
                 "mean_point_longitude": 127.36235191220726,
                 "shape_area_m2": 14.1833811277092
             },
-            "image_url": "images/map/202402603C00810034_cropped_155.tif"
+            "image_url": "images/map/202402603C00810034_cropped_155.png"
         },
         {
             "shape_attributes": {
@@ -4647,7 +4647,7 @@
                 "mean_point_longitude": 127.36368300432093,
                 "shape_area_m2": 16.35357896514824
             },
-            "image_url": "images/map/202402603C00810034_cropped_156.tif"
+            "image_url": "images/map/202402603C00810034_cropped_156.png"
         },
         {
             "shape_attributes": {
@@ -4675,7 +4675,7 @@
                 "mean_point_longitude": 127.3637561132035,
                 "shape_area_m2": 16.682581220550787
             },
-            "image_url": "images/map/202402603C00810034_cropped_157.tif"
+            "image_url": "images/map/202402603C00810034_cropped_157.png"
         },
         {
             "shape_attributes": {
@@ -4717,7 +4717,7 @@
                 "mean_point_longitude": 127.3641010498931,
                 "shape_area_m2": 12.480854015388013
             },
-            "image_url": "images/map/202402603C00810034_cropped_158.tif"
+            "image_url": "images/map/202402603C00810034_cropped_158.png"
         },
         {
             "shape_attributes": {
@@ -4745,7 +4745,7 @@
                 "mean_point_longitude": 127.364000272046,
                 "shape_area_m2": 7.231972827673574
             },
-            "image_url": "images/map/202402603C00810034_cropped_159.tif"
+            "image_url": "images/map/202402603C00810034_cropped_159.png"
         },
         {
             "shape_attributes": {
@@ -4779,7 +4779,7 @@
                 "mean_point_longitude": 127.36366777446597,
                 "shape_area_m2": 10.380165298174692
             },
-            "image_url": "images/map/202402603C00810034_cropped_160.tif"
+            "image_url": "images/map/202402603C00810034_cropped_160.png"
         },
         {
             "shape_attributes": {
@@ -4809,7 +4809,7 @@
                 "mean_point_longitude": 127.36442619273008,
                 "shape_area_m2": 11.82286080433159
             },
-            "image_url": "images/map/202402603C00810034_cropped_161.tif"
+            "image_url": "images/map/202402603C00810034_cropped_161.png"
         },
         {
             "shape_attributes": {
@@ -4851,7 +4851,7 @@
                 "mean_point_longitude": 127.36498749811587,
                 "shape_area_m2": 203.61610572912974
             },
-            "image_url": "images/map/202402603C00810034_cropped_162.tif"
+            "image_url": "images/map/202402603C00810034_cropped_162.png"
         },
         {
             "shape_attributes": {
@@ -4879,7 +4879,7 @@
                 "mean_point_longitude": 127.36461323884164,
                 "shape_area_m2": 8.798558344954513
             },
-            "image_url": "images/map/202402603C00810034_cropped_163.tif"
+            "image_url": "images/map/202402603C00810034_cropped_163.png"
         },
         {
             "shape_attributes": {
@@ -4903,7 +4903,7 @@
                 "mean_point_longitude": 127.3644867743286,
                 "shape_area_m2": 12.951824493349008
             },
-            "image_url": "images/map/202402603C00810034_cropped_164.tif"
+            "image_url": "images/map/202402603C00810034_cropped_164.png"
         },
         {
             "shape_attributes": {
@@ -4931,7 +4931,7 @@
                 "mean_point_longitude": 127.36531334495399,
                 "shape_area_m2": 12.701298541632001
             },
-            "image_url": "images/map/202402603C00810034_cropped_165.tif"
+            "image_url": "images/map/202402603C00810034_cropped_165.png"
         },
         {
             "shape_attributes": {
@@ -4961,7 +4961,7 @@
                 "mean_point_longitude": 127.3645978803666,
                 "shape_area_m2": 6.136337587303118
             },
-            "image_url": "images/map/202402603C00810034_cropped_166.tif"
+            "image_url": "images/map/202402603C00810034_cropped_166.png"
         },
         {
             "shape_attributes": {
@@ -4985,7 +4985,7 @@
                 "mean_point_longitude": 127.36504847518233,
                 "shape_area_m2": 6.100125610407902
             },
-            "image_url": "images/map/202402603C00810034_cropped_167.tif"
+            "image_url": "images/map/202402603C00810034_cropped_167.png"
         },
         {
             "shape_attributes": {
@@ -5011,7 +5011,7 @@
                 "mean_point_longitude": 127.36656030726115,
                 "shape_area_m2": 7.132384377866098
             },
-            "image_url": "images/map/202402603C00810034_cropped_168.tif"
+            "image_url": "images/map/202402603C00810034_cropped_168.png"
         },
         {
             "shape_attributes": {
@@ -5039,7 +5039,7 @@
                 "mean_point_longitude": 127.36641531979895,
                 "shape_area_m2": 14.28291010521256
             },
-            "image_url": "images/map/202402603C00810034_cropped_169.tif"
+            "image_url": "images/map/202402603C00810034_cropped_169.png"
         },
         {
             "shape_attributes": {
@@ -5063,7 +5063,7 @@
                 "mean_point_longitude": 127.3663801112194,
                 "shape_area_m2": 14.02637192499886
             },
-            "image_url": "images/map/202402603C00810034_cropped_170.tif"
+            "image_url": "images/map/202402603C00810034_cropped_170.png"
         },
         {
             "shape_attributes": {
@@ -5091,7 +5091,7 @@
                 "mean_point_longitude": 127.36637221038346,
                 "shape_area_m2": 14.97414692297723
             },
-            "image_url": "images/map/202402603C00810034_cropped_171.tif"
+            "image_url": "images/map/202402603C00810034_cropped_171.png"
         },
         {
             "shape_attributes": {
@@ -5119,7 +5119,7 @@
                 "mean_point_longitude": 127.36640626835585,
                 "shape_area_m2": 14.829240131717556
             },
-            "image_url": "images/map/202402603C00810034_cropped_172.tif"
+            "image_url": "images/map/202402603C00810034_cropped_172.png"
         },
         {
             "shape_attributes": {
@@ -5145,7 +5145,7 @@
                 "mean_point_longitude": 127.36621025968407,
                 "shape_area_m2": 14.285947425904968
             },
-            "image_url": "images/map/202402603C00810034_cropped_173.tif"
+            "image_url": "images/map/202402603C00810034_cropped_173.png"
         },
         {
             "shape_attributes": {
@@ -5173,7 +5173,7 @@
                 "mean_point_longitude": 127.36638816546963,
                 "shape_area_m2": 14.747757538988257
             },
-            "image_url": "images/map/202402603C00810034_cropped_174.tif"
+            "image_url": "images/map/202402603C00810034_cropped_174.png"
         },
         {
             "shape_attributes": {
@@ -5201,7 +5201,7 @@
                 "mean_point_longitude": 127.36621189245044,
                 "shape_area_m2": 13.778855451199732
             },
-            "image_url": "images/map/202402603C00810034_cropped_175.tif"
+            "image_url": "images/map/202402603C00810034_cropped_175.png"
         },
         {
             "shape_attributes": {
@@ -5229,7 +5229,7 @@
                 "mean_point_longitude": 127.36622094389354,
                 "shape_area_m2": 15.342365744770579
             },
-            "image_url": "images/map/202402603C00810034_cropped_176.tif"
+            "image_url": "images/map/202402603C00810034_cropped_176.png"
         },
         {
             "shape_attributes": {
@@ -5257,7 +5257,7 @@
                 "mean_point_longitude": 127.36639829081277,
                 "shape_area_m2": 14.738694939158929
             },
-            "image_url": "images/map/202402603C00810034_cropped_177.tif"
+            "image_url": "images/map/202402603C00810034_cropped_177.png"
         },
         {
             "shape_attributes": {
@@ -5283,7 +5283,7 @@
                 "mean_point_longitude": 127.3657703551657,
                 "shape_area_m2": 15.94591385601863
             },
-            "image_url": "images/map/202402603C00810034_cropped_178.tif"
+            "image_url": "images/map/202402603C00810034_cropped_178.png"
         },
         {
             "shape_attributes": {
@@ -5313,7 +5313,7 @@
                 "mean_point_longitude": 127.36623395853914,
                 "shape_area_m2": 14.98015389757131
             },
-            "image_url": "images/map/202402603C00810034_cropped_179.tif"
+            "image_url": "images/map/202402603C00810034_cropped_179.png"
         },
         {
             "shape_attributes": {
@@ -5339,7 +5339,7 @@
                 "mean_point_longitude": 127.36622121784762,
                 "shape_area_m2": 7.017696859578811
             },
-            "image_url": "images/map/202402603C00810034_cropped_180.tif"
+            "image_url": "images/map/202402603C00810034_cropped_180.png"
         },
         {
             "shape_attributes": {
@@ -5367,7 +5367,7 @@
                 "mean_point_longitude": 127.36645167898568,
                 "shape_area_m2": 4.412861674502607
             },
-            "image_url": "images/map/202402603C00810034_cropped_181.tif"
+            "image_url": "images/map/202402603C00810034_cropped_181.png"
         },
         {
             "shape_attributes": {
@@ -5397,7 +5397,7 @@
                 "mean_point_longitude": 127.36623300396134,
                 "shape_area_m2": 14.95298347986871
             },
-            "image_url": "images/map/202402603C00810034_cropped_182.tif"
+            "image_url": "images/map/202402603C00810034_cropped_182.png"
         },
         {
             "shape_attributes": {
@@ -5433,7 +5433,7 @@
                 "mean_point_longitude": 127.36716804701277,
                 "shape_area_m2": 25.354165681868228
             },
-            "image_url": "images/map/202402603C00810034_cropped_183.tif"
+            "image_url": "images/map/202402603C00810034_cropped_183.png"
         },
         {
             "shape_attributes": {
@@ -5475,7 +5475,7 @@
                 "mean_point_longitude": 127.3592882595191,
                 "shape_area_m2": 102.88828428223725
             },
-            "image_url": "images/map/202402603C00810034_cropped_184.tif"
+            "image_url": "images/map/202402603C00810034_cropped_184.png"
         },
         {
             "shape_attributes": {
@@ -5525,7 +5525,7 @@
                 "mean_point_longitude": 127.35927255635536,
                 "shape_area_m2": 154.33651267261055
             },
-            "image_url": "images/map/202402603C00810034_cropped_185.tif"
+            "image_url": "images/map/202402603C00810034_cropped_185.png"
         },
         {
             "shape_attributes": {
@@ -5573,7 +5573,7 @@
                 "mean_point_longitude": 127.35970573730343,
                 "shape_area_m2": 144.4612634878903
             },
-            "image_url": "images/map/202402603C00810034_cropped_186.tif"
+            "image_url": "images/map/202402603C00810034_cropped_186.png"
         },
         {
             "shape_attributes": {
@@ -5595,7 +5595,7 @@
                 "mean_point_longitude": 127.35975598900642,
                 "shape_area_m2": 6.972498116475212
             },
-            "image_url": "images/map/202402603C00810034_cropped_187.tif"
+            "image_url": "images/map/202402603C00810034_cropped_187.png"
         },
         {
             "shape_attributes": {
@@ -5625,7 +5625,7 @@
                 "mean_point_longitude": 127.35982921876084,
                 "shape_area_m2": 11.19522453956952
             },
-            "image_url": "images/map/202402603C00810034_cropped_188.tif"
+            "image_url": "images/map/202402603C00810034_cropped_188.png"
         },
         {
             "shape_attributes": {
@@ -5705,7 +5705,7 @@
                 "mean_point_longitude": 127.36050645561555,
                 "shape_area_m2": 564.0740376649542
             },
-            "image_url": "images/map/202402603C00810034_cropped_189.tif"
+            "image_url": "images/map/202402603C00810034_cropped_189.png"
         },
         {
             "shape_attributes": {
@@ -5733,7 +5733,7 @@
                 "mean_point_longitude": 127.35980469804349,
                 "shape_area_m2": 8.834930677792139
             },
-            "image_url": "images/map/202402603C00810034_cropped_190.tif"
+            "image_url": "images/map/202402603C00810034_cropped_190.png"
         },
         {
             "shape_attributes": {
@@ -5765,7 +5765,7 @@
                 "mean_point_longitude": 127.35958023759581,
                 "shape_area_m2": 37.48883595301945
             },
-            "image_url": "images/map/202402603C00810034_cropped_191.tif"
+            "image_url": "images/map/202402603C00810034_cropped_191.png"
         },
         {
             "shape_attributes": {
@@ -5791,7 +5791,7 @@
                 "mean_point_longitude": 127.35960678265124,
                 "shape_area_m2": 20.944743933412795
             },
-            "image_url": "images/map/202402603C00810034_cropped_192.tif"
+            "image_url": "images/map/202402603C00810034_cropped_192.png"
         },
         {
             "shape_attributes": {
@@ -5821,7 +5821,7 @@
                 "mean_point_longitude": 127.36168075878064,
                 "shape_area_m2": 13.836346041161915
             },
-            "image_url": "images/map/202402603C00810034_cropped_193.tif"
+            "image_url": "images/map/202402603C00810034_cropped_193.png"
         },
         {
             "shape_attributes": {
@@ -5889,7 +5889,7 @@
                 "mean_point_longitude": 127.36175377180693,
                 "shape_area_m2": 64.75379899126506
             },
-            "image_url": "images/map/202402603C00810034_cropped_194.tif"
+            "image_url": "images/map/202402603C00810034_cropped_194.png"
         },
         {
             "shape_attributes": {
@@ -5925,7 +5925,7 @@
                 "mean_point_longitude": 127.36095993321612,
                 "shape_area_m2": 61.059497701621396
             },
-            "image_url": "images/map/202402603C00810034_cropped_195.tif"
+            "image_url": "images/map/202402603C00810034_cropped_195.png"
         },
         {
             "shape_attributes": {
@@ -6017,7 +6017,7 @@
                 "mean_point_longitude": 127.36088536364358,
                 "shape_area_m2": 877.5514490037806
             },
-            "image_url": "images/map/202402603C00810034_cropped_196.tif"
+            "image_url": "images/map/202402603C00810034_cropped_196.png"
         },
         {
             "shape_attributes": {
@@ -6043,7 +6043,7 @@
                 "mean_point_longitude": 127.36251060833209,
                 "shape_area_m2": 91.60198811161521
             },
-            "image_url": "images/map/202402603C00810034_cropped_197.tif"
+            "image_url": "images/map/202402603C00810034_cropped_197.png"
         },
         {
             "shape_attributes": {
@@ -6073,7 +6073,7 @@
                 "mean_point_longitude": 127.36267317877652,
                 "shape_area_m2": 20.0299990107439
             },
-            "image_url": "images/map/202402603C00810034_cropped_198.tif"
+            "image_url": "images/map/202402603C00810034_cropped_198.png"
         },
         {
             "shape_attributes": {
@@ -6101,7 +6101,7 @@
                 "mean_point_longitude": 127.36226461947625,
                 "shape_area_m2": 14.446093779803356
             },
-            "image_url": "images/map/202402603C00810034_cropped_199.tif"
+            "image_url": "images/map/202402603C00810034_cropped_199.png"
         },
         {
             "shape_attributes": {
@@ -6149,7 +6149,7 @@
                 "mean_point_longitude": 127.3623502928342,
                 "shape_area_m2": 15.372763530144248
             },
-            "image_url": "images/map/202402603C00810034_cropped_200.tif"
+            "image_url": "images/map/202402603C00810034_cropped_200.png"
         },
         {
             "shape_attributes": {
@@ -6173,7 +6173,7 @@
                 "mean_point_longitude": 127.36310440929964,
                 "shape_area_m2": 5.270116669476919
             },
-            "image_url": "images/map/202402603C00810034_cropped_201.tif"
+            "image_url": "images/map/202402603C00810034_cropped_201.png"
         },
         {
             "shape_attributes": {
@@ -6197,7 +6197,7 @@
                 "mean_point_longitude": 127.36429756337095,
                 "shape_area_m2": 10.6186903811994
             },
-            "image_url": "images/map/202402603C00810034_cropped_202.tif"
+            "image_url": "images/map/202402603C00810034_cropped_202.png"
         },
         {
             "shape_attributes": {
@@ -6233,7 +6233,7 @@
                 "mean_point_longitude": 127.36473305540211,
                 "shape_area_m2": 51.74726189644113
             },
-            "image_url": "images/map/202402603C00810034_cropped_203.tif"
+            "image_url": "images/map/202402603C00810034_cropped_203.png"
         },
         {
             "shape_attributes": {
@@ -6259,7 +6259,7 @@
                 "mean_point_longitude": 127.3655472469554,
                 "shape_area_m2": 4.8656436732557165
             },
-            "image_url": "images/map/202402603C00810034_cropped_204.tif"
+            "image_url": "images/map/202402603C00810034_cropped_204.png"
         },
         {
             "shape_attributes": {
@@ -6303,7 +6303,7 @@
                 "mean_point_longitude": 127.36446837739832,
                 "shape_area_m2": 18.85596571430334
             },
-            "image_url": "images/map/202402603C00810034_cropped_205.tif"
+            "image_url": "images/map/202402603C00810034_cropped_205.png"
         },
         {
             "shape_attributes": {
@@ -6331,7 +6331,7 @@
                 "mean_point_longitude": 127.36449089094538,
                 "shape_area_m2": 12.858416440227538
             },
-            "image_url": "images/map/202402603C00810034_cropped_206.tif"
+            "image_url": "images/map/202402603C00810034_cropped_206.png"
         },
         {
             "shape_attributes": {
@@ -6439,7 +6439,7 @@
                 "mean_point_longitude": 127.36500862582051,
                 "shape_area_m2": 460.15501899781043
             },
-            "image_url": "images/map/202402603C00810034_cropped_207.tif"
+            "image_url": "images/map/202402603C00810034_cropped_207.png"
         },
         {
             "shape_attributes": {
@@ -6467,7 +6467,7 @@
                 "mean_point_longitude": 127.36493042288619,
                 "shape_area_m2": 24.376715876712062
             },
-            "image_url": "images/map/202402603C00810034_cropped_208.tif"
+            "image_url": "images/map/202402603C00810034_cropped_208.png"
         },
         {
             "shape_attributes": {
@@ -6497,7 +6497,7 @@
                 "mean_point_longitude": 127.36693018667916,
                 "shape_area_m2": 7.132466712672736
             },
-            "image_url": "images/map/202402603C00810034_cropped_209.tif"
+            "image_url": "images/map/202402603C00810034_cropped_209.png"
         },
         {
             "shape_attributes": {
@@ -6525,7 +6525,7 @@
                 "mean_point_longitude": 127.36694329507793,
                 "shape_area_m2": 6.791390867894825
             },
-            "image_url": "images/map/202402603C00810034_cropped_210.tif"
+            "image_url": "images/map/202402603C00810034_cropped_210.png"
         },
         {
             "shape_attributes": {
@@ -6553,7 +6553,7 @@
                 "mean_point_longitude": 127.36572004623675,
                 "shape_area_m2": 5.185578178385137
             },
-            "image_url": "images/map/202402603C00810034_cropped_211.tif"
+            "image_url": "images/map/202402603C00810034_cropped_211.png"
         },
         {
             "shape_attributes": {
@@ -6599,7 +6599,7 @@
                 "mean_point_longitude": 127.3668771915677,
                 "shape_area_m2": 30.304669759195836
             },
-            "image_url": "images/map/202402603C00810034_cropped_212.tif"
+            "image_url": "images/map/202402603C00810034_cropped_212.png"
         },
         {
             "shape_attributes": {
@@ -6625,7 +6625,7 @@
                 "mean_point_longitude": 127.36615248824572,
                 "shape_area_m2": 18.747287898837953
             },
-            "image_url": "images/map/202402603C00810034_cropped_213.tif"
+            "image_url": "images/map/202402603C00810034_cropped_213.png"
         },
         {
             "shape_attributes": {
@@ -6649,7 +6649,7 @@
                 "mean_point_longitude": 127.36574528288745,
                 "shape_area_m2": 5.411956313975399
             },
-            "image_url": "images/map/202402603C00810034_cropped_214.tif"
+            "image_url": "images/map/202402603C00810034_cropped_214.png"
         },
         {
             "shape_attributes": {
@@ -6679,7 +6679,7 @@
                 "mean_point_longitude": 127.36707882808012,
                 "shape_area_m2": 6.658574041145492
             },
-            "image_url": "images/map/202402603C00810034_cropped_215.tif"
+            "image_url": "images/map/202402603C00810034_cropped_215.png"
         },
         {
             "shape_attributes": {
@@ -6711,7 +6711,7 @@
                 "mean_point_longitude": 127.36709692414793,
                 "shape_area_m2": 6.359755877147219
             },
-            "image_url": "images/map/202402603C00810034_cropped_216.tif"
+            "image_url": "images/map/202402603C00810034_cropped_216.png"
         },
         {
             "shape_attributes": {
@@ -6741,7 +6741,7 @@
                 "mean_point_longitude": 127.3670204624658,
                 "shape_area_m2": 6.281279732072926
             },
-            "image_url": "images/map/202402603C00810034_cropped_217.tif"
+            "image_url": "images/map/202402603C00810034_cropped_217.png"
         },
         {
             "shape_attributes": {
@@ -6771,7 +6771,7 @@
                 "mean_point_longitude": 127.36700437101139,
                 "shape_area_m2": 6.77025702651069
             },
-            "image_url": "images/map/202402603C00810034_cropped_218.tif"
+            "image_url": "images/map/202402603C00810034_cropped_218.png"
         },
         {
             "shape_attributes": {
@@ -6795,7 +6795,7 @@
                 "mean_point_longitude": 127.37050439871517,
                 "shape_area_m2": 6.444283974582364
             },
-            "image_url": "images/map/202402603C00810034_cropped_219.tif"
+            "image_url": "images/map/202402603C00810034_cropped_219.png"
         },
         {
             "shape_attributes": {
@@ -6819,7 +6819,7 @@
                 "mean_point_longitude": 127.35709762618954,
                 "shape_area_m2": 23.073169578418202
             },
-            "image_url": "images/map/202402603C00810034_cropped_220.tif"
+            "image_url": "images/map/202402603C00810034_cropped_220.png"
         },
         {
             "shape_attributes": {
@@ -6847,7 +6847,7 @@
                 "mean_point_longitude": 127.35709279363941,
                 "shape_area_m2": 22.143498765722065
             },
-            "image_url": "images/map/202402603C00810034_cropped_221.tif"
+            "image_url": "images/map/202402603C00810034_cropped_221.png"
         },
         {
             "shape_attributes": {
@@ -6873,7 +6873,7 @@
                 "mean_point_longitude": 127.35709376891597,
                 "shape_area_m2": 22.176681004493958
             },
-            "image_url": "images/map/202402603C00810034_cropped_222.tif"
+            "image_url": "images/map/202402603C00810034_cropped_222.png"
         },
         {
             "shape_attributes": {
@@ -6899,7 +6899,7 @@
                 "mean_point_longitude": 127.35710639272041,
                 "shape_area_m2": 24.33487055344007
             },
-            "image_url": "images/map/202402603C00810034_cropped_223.tif"
+            "image_url": "images/map/202402603C00810034_cropped_223.png"
         },
         {
             "shape_attributes": {
@@ -6927,7 +6927,7 @@
                 "mean_point_longitude": 127.35712025479732,
                 "shape_area_m2": 24.21713899720369
             },
-            "image_url": "images/map/202402603C00810034_cropped_224.tif"
+            "image_url": "images/map/202402603C00810034_cropped_224.png"
         },
         {
             "shape_attributes": {
@@ -6953,7 +6953,7 @@
                 "mean_point_longitude": 127.35710008081819,
                 "shape_area_m2": 23.516861498350348
             },
-            "image_url": "images/map/202402603C00810034_cropped_225.tif"
+            "image_url": "images/map/202402603C00810034_cropped_225.png"
         },
         {
             "shape_attributes": {
@@ -6981,7 +6981,7 @@
                 "mean_point_longitude": 127.3570997739896,
                 "shape_area_m2": 22.040856877076045
             },
-            "image_url": "images/map/202402603C00810034_cropped_226.tif"
+            "image_url": "images/map/202402603C00810034_cropped_226.png"
         },
         {
             "shape_attributes": {
@@ -7013,7 +7013,7 @@
                 "mean_point_longitude": 127.35710732197268,
                 "shape_area_m2": 22.937363122982507
             },
-            "image_url": "images/map/202402603C00810034_cropped_227.tif"
+            "image_url": "images/map/202402603C00810034_cropped_227.png"
         },
         {
             "shape_attributes": {
@@ -7039,7 +7039,7 @@
                 "mean_point_longitude": 127.35710306143868,
                 "shape_area_m2": 23.130481420193465
             },
-            "image_url": "images/map/202402603C00810034_cropped_228.tif"
+            "image_url": "images/map/202402603C00810034_cropped_228.png"
         },
         {
             "shape_attributes": {
@@ -7067,7 +7067,7 @@
                 "mean_point_longitude": 127.35710360934686,
                 "shape_area_m2": 24.386156678559523
             },
-            "image_url": "images/map/202402603C00810034_cropped_229.tif"
+            "image_url": "images/map/202402603C00810034_cropped_229.png"
         },
         {
             "shape_attributes": {
@@ -7095,7 +7095,7 @@
                 "mean_point_longitude": 127.36283156198489,
                 "shape_area_m2": 28.651057878606405
             },
-            "image_url": "images/map/202402603C00810034_cropped_230.tif"
+            "image_url": "images/map/202402603C00810034_cropped_230.png"
         },
         {
             "shape_attributes": {
@@ -7133,7 +7133,7 @@
                 "mean_point_longitude": 127.36291519047458,
                 "shape_area_m2": 32.28504426431481
             },
-            "image_url": "images/map/202402603C00810034_cropped_231.tif"
+            "image_url": "images/map/202402603C00810034_cropped_231.png"
         },
         {
             "shape_attributes": {
@@ -7163,7 +7163,7 @@
                 "mean_point_longitude": 127.3628343660572,
                 "shape_area_m2": 28.255652800498634
             },
-            "image_url": "images/map/202402603C00810034_cropped_232.tif"
+            "image_url": "images/map/202402603C00810034_cropped_232.png"
         },
         {
             "shape_attributes": {
@@ -7201,7 +7201,7 @@
                 "mean_point_longitude": 127.36290202044785,
                 "shape_area_m2": 30.087621946793995
             },
-            "image_url": "images/map/202402603C00810034_cropped_233.tif"
+            "image_url": "images/map/202402603C00810034_cropped_233.png"
         },
         {
             "shape_attributes": {
@@ -7229,7 +7229,7 @@
                 "mean_point_longitude": 127.36285396047123,
                 "shape_area_m2": 27.398358824950716
             },
-            "image_url": "images/map/202402603C00810034_cropped_234.tif"
+            "image_url": "images/map/202402603C00810034_cropped_234.png"
         },
         {
             "shape_attributes": {
@@ -7265,7 +7265,7 @@
                 "mean_point_longitude": 127.36271795870316,
                 "shape_area_m2": 53.694826170514006
             },
-            "image_url": "images/map/202402603C00810034_cropped_235.tif"
+            "image_url": "images/map/202402603C00810034_cropped_235.png"
         },
         {
             "shape_attributes": {
@@ -7297,7 +7297,7 @@
                 "mean_point_longitude": 127.36292307360887,
                 "shape_area_m2": 32.80418245757915
             },
-            "image_url": "images/map/202402603C00810034_cropped_236.tif"
+            "image_url": "images/map/202402603C00810034_cropped_236.png"
         },
         {
             "shape_attributes": {
@@ -7325,7 +7325,7 @@
                 "mean_point_longitude": 127.36287697261473,
                 "shape_area_m2": 28.23145039606256
             },
-            "image_url": "images/map/202402603C00810034_cropped_237.tif"
+            "image_url": "images/map/202402603C00810034_cropped_237.png"
         },
         {
             "shape_attributes": {
@@ -7355,7 +7355,7 @@
                 "mean_point_longitude": 127.36283252508572,
                 "shape_area_m2": 29.644151061196258
             },
-            "image_url": "images/map/202402603C00810034_cropped_238.tif"
+            "image_url": "images/map/202402603C00810034_cropped_238.png"
         },
         {
             "shape_attributes": {
@@ -7387,7 +7387,7 @@
                 "mean_point_longitude": 127.36299941255957,
                 "shape_area_m2": 20.335225381255647
             },
-            "image_url": "images/map/202402603C00810034_cropped_239.tif"
+            "image_url": "images/map/202402603C00810034_cropped_239.png"
         },
         {
             "shape_attributes": {
@@ -7419,7 +7419,7 @@
                 "mean_point_longitude": 127.36283022728057,
                 "shape_area_m2": 32.572050307588
             },
-            "image_url": "images/map/202402603C00810034_cropped_240.tif"
+            "image_url": "images/map/202402603C00810034_cropped_240.png"
         },
         {
             "shape_attributes": {
@@ -7449,7 +7449,7 @@
                 "mean_point_longitude": 127.36285338942915,
                 "shape_area_m2": 27.362175369228705
             },
-            "image_url": "images/map/202402603C00810034_cropped_241.tif"
+            "image_url": "images/map/202402603C00810034_cropped_241.png"
         },
         {
             "shape_attributes": {
@@ -7479,7 +7479,7 @@
                 "mean_point_longitude": 127.36290786854813,
                 "shape_area_m2": 28.59960950101416
             },
-            "image_url": "images/map/202402603C00810034_cropped_242.tif"
+            "image_url": "images/map/202402603C00810034_cropped_242.png"
         },
         {
             "shape_attributes": {
@@ -7511,7 +7511,7 @@
                 "mean_point_longitude": 127.3628269135319,
                 "shape_area_m2": 29.686393140607315
             },
-            "image_url": "images/map/202402603C00810034_cropped_243.tif"
+            "image_url": "images/map/202402603C00810034_cropped_243.png"
         },
         {
             "shape_attributes": {
@@ -7537,7 +7537,7 @@
                 "mean_point_longitude": 127.36294349962577,
                 "shape_area_m2": 26.921310936880413
             },
-            "image_url": "images/map/202402603C00810034_cropped_244.tif"
+            "image_url": "images/map/202402603C00810034_cropped_244.png"
         },
         {
             "shape_attributes": {
@@ -7573,7 +7573,7 @@
                 "mean_point_longitude": 127.36291013567042,
                 "shape_area_m2": 30.772822822331865
             },
-            "image_url": "images/map/202402603C00810034_cropped_245.tif"
+            "image_url": "images/map/202402603C00810034_cropped_245.png"
         },
         {
             "shape_attributes": {
@@ -7601,7 +7601,7 @@
                 "mean_point_longitude": 127.36283708489934,
                 "shape_area_m2": 28.626897807306353
             },
-            "image_url": "images/map/202402603C00810034_cropped_246.tif"
+            "image_url": "images/map/202402603C00810034_cropped_246.png"
         },
         {
             "shape_attributes": {
@@ -7633,7 +7633,7 @@
                 "mean_point_longitude": 127.36288386091636,
                 "shape_area_m2": 29.390487482114985
             },
-            "image_url": "images/map/202402603C00810034_cropped_247.tif"
+            "image_url": "images/map/202402603C00810034_cropped_247.png"
         },
         {
             "shape_attributes": {
@@ -7663,7 +7663,7 @@
                 "mean_point_longitude": 127.36284602554323,
                 "shape_area_m2": 29.173200722469772
             },
-            "image_url": "images/map/202402603C00810034_cropped_248.tif"
+            "image_url": "images/map/202402603C00810034_cropped_248.png"
         },
         {
             "shape_attributes": {
@@ -7711,7 +7711,7 @@
                 "mean_point_longitude": 127.36259998311417,
                 "shape_area_m2": 25.35180668494653
             },
-            "image_url": "images/map/202402603C00810034_cropped_249.tif"
+            "image_url": "images/map/202402603C00810034_cropped_249.png"
         },
         {
             "shape_attributes": {
@@ -7737,7 +7737,7 @@
                 "mean_point_longitude": 127.36286582816238,
                 "shape_area_m2": 26.97874606936359
             },
-            "image_url": "images/map/202402603C00810034_cropped_250.tif"
+            "image_url": "images/map/202402603C00810034_cropped_250.png"
         },
         {
             "shape_attributes": {
@@ -7767,7 +7767,7 @@
                 "mean_point_longitude": 127.36290950496722,
                 "shape_area_m2": 28.001962781160767
             },
-            "image_url": "images/map/202402603C00810034_cropped_251.tif"
+            "image_url": "images/map/202402603C00810034_cropped_251.png"
         },
         {
             "shape_attributes": {
@@ -7817,7 +7817,7 @@
                 "mean_point_longitude": 127.36258927641161,
                 "shape_area_m2": 61.80573852185119
             },
-            "image_url": "images/map/202402603C00810034_cropped_252.tif"
+            "image_url": "images/map/202402603C00810034_cropped_252.png"
         },
         {
             "shape_attributes": {
@@ -7847,7 +7847,7 @@
                 "mean_point_longitude": 127.36289511811603,
                 "shape_area_m2": 27.74536901048994
             },
-            "image_url": "images/map/202402603C00810034_cropped_253.tif"
+            "image_url": "images/map/202402603C00810034_cropped_253.png"
         },
         {
             "shape_attributes": {
@@ -7879,7 +7879,7 @@
                 "mean_point_longitude": 127.36286354886435,
                 "shape_area_m2": 28.964918101342914
             },
-            "image_url": "images/map/202402603C00810034_cropped_254.tif"
+            "image_url": "images/map/202402603C00810034_cropped_254.png"
         },
         {
             "shape_attributes": {
@@ -7911,7 +7911,7 @@
                 "mean_point_longitude": 127.36289680908243,
                 "shape_area_m2": 26.951556936561616
             },
-            "image_url": "images/map/202402603C00810034_cropped_255.tif"
+            "image_url": "images/map/202402603C00810034_cropped_255.png"
         },
         {
             "shape_attributes": {
@@ -7943,7 +7943,7 @@
                 "mean_point_longitude": 127.36441094675887,
                 "shape_area_m2": 21.953012597059583
             },
-            "image_url": "images/map/202402603C00810034_cropped_256.tif"
+            "image_url": "images/map/202402603C00810034_cropped_256.png"
         },
         {
             "shape_attributes": {
@@ -7973,7 +7973,7 @@
                 "mean_point_longitude": 127.36419791226659,
                 "shape_area_m2": 34.739100502933596
             },
-            "image_url": "images/map/202402603C00810034_cropped_257.tif"
+            "image_url": "images/map/202402603C00810034_cropped_257.png"
         },
         {
             "shape_attributes": {
@@ -8003,7 +8003,7 @@
                 "mean_point_longitude": 127.36394897201204,
                 "shape_area_m2": 11.910826695812695
             },
-            "image_url": "images/map/202402603C00810034_cropped_258.tif"
+            "image_url": "images/map/202402603C00810034_cropped_258.png"
         },
         {
             "shape_attributes": {
@@ -8037,7 +8037,7 @@
                 "mean_point_longitude": 127.36428070639472,
                 "shape_area_m2": 20.136041147748713
             },
-            "image_url": "images/map/202402603C00810034_cropped_259.tif"
+            "image_url": "images/map/202402603C00810034_cropped_259.png"
         },
         {
             "shape_attributes": {
@@ -8075,7 +8075,7 @@
                 "mean_point_longitude": 127.36516603773285,
                 "shape_area_m2": 79.59634502662048
             },
-            "image_url": "images/map/202402603C00810034_cropped_260.tif"
+            "image_url": "images/map/202402603C00810034_cropped_260.png"
         },
         {
             "shape_attributes": {
@@ -8107,7 +8107,7 @@
                 "mean_point_longitude": 127.36542182419844,
                 "shape_area_m2": 6.447368922061185
             },
-            "image_url": "images/map/202402603C00810034_cropped_261.tif"
+            "image_url": "images/map/202402603C00810034_cropped_261.png"
         },
         {
             "shape_attributes": {
@@ -8185,7 +8185,7 @@
                 "mean_point_longitude": 127.36463523287212,
                 "shape_area_m2": 80.60778497097657
             },
-            "image_url": "images/map/202402603C00810034_cropped_262.tif"
+            "image_url": "images/map/202402603C00810034_cropped_262.png"
         },
         {
             "shape_attributes": {
@@ -8215,7 +8215,7 @@
                 "mean_point_longitude": 127.36621902621492,
                 "shape_area_m2": 8.940605830179974
             },
-            "image_url": "images/map/202402603C00810034_cropped_263.tif"
+            "image_url": "images/map/202402603C00810034_cropped_263.png"
         },
         {
             "shape_attributes": {
@@ -8243,7 +8243,7 @@
                 "mean_point_longitude": 127.3662413479941,
                 "shape_area_m2": 11.002185539746261
             },
-            "image_url": "images/map/202402603C00810034_cropped_264.tif"
+            "image_url": "images/map/202402603C00810034_cropped_264.png"
         },
         {
             "shape_attributes": {
@@ -8273,7 +8273,7 @@
                 "mean_point_longitude": 127.36634018941194,
                 "shape_area_m2": 11.974112122518928
             },
-            "image_url": "images/map/202402603C00810034_cropped_265.tif"
+            "image_url": "images/map/202402603C00810034_cropped_265.png"
         },
         {
             "shape_attributes": {
@@ -8297,7 +8297,7 @@
                 "mean_point_longitude": 127.36653495737609,
                 "shape_area_m2": 4.129220688176684
             },
-            "image_url": "images/map/202402603C00810034_cropped_266.tif"
+            "image_url": "images/map/202402603C00810034_cropped_266.png"
         },
         {
             "shape_attributes": {
@@ -8331,7 +8331,7 @@
                 "mean_point_longitude": 127.36642170043874,
                 "shape_area_m2": 93.45665192391013
             },
-            "image_url": "images/map/202402603C00810034_cropped_267.tif"
+            "image_url": "images/map/202402603C00810034_cropped_267.png"
         },
         {
             "shape_attributes": {
@@ -8361,7 +8361,7 @@
                 "mean_point_longitude": 127.36691504980254,
                 "shape_area_m2": 23.863745973694847
             },
-            "image_url": "images/map/202402603C00810034_cropped_268.tif"
+            "image_url": "images/map/202402603C00810034_cropped_268.png"
         },
         {
             "shape_attributes": {
@@ -8385,7 +8385,7 @@
                 "mean_point_longitude": 127.36656523112931,
                 "shape_area_m2": 4.373713024870585
             },
-            "image_url": "images/map/202402603C00810034_cropped_269.tif"
+            "image_url": "images/map/202402603C00810034_cropped_269.png"
         },
         {
             "shape_attributes": {
@@ -8409,7 +8409,7 @@
                 "mean_point_longitude": 127.36651204750879,
                 "shape_area_m2": 4.017537178843275
             },
-            "image_url": "images/map/202402603C00810034_cropped_270.tif"
+            "image_url": "images/map/202402603C00810034_cropped_270.png"
         },
         {
             "shape_attributes": {
@@ -8433,7 +8433,7 @@
                 "mean_point_longitude": 127.36620194609063,
                 "shape_area_m2": 7.177861294818944
             },
-            "image_url": "images/map/202402603C00810034_cropped_271.tif"
+            "image_url": "images/map/202402603C00810034_cropped_271.png"
         },
         {
             "shape_attributes": {
@@ -8475,7 +8475,7 @@
                 "mean_point_longitude": 127.36636057646648,
                 "shape_area_m2": 92.68697972147837
             },
-            "image_url": "images/map/202402603C00810034_cropped_272.tif"
+            "image_url": "images/map/202402603C00810034_cropped_272.png"
         },
         {
             "shape_attributes": {
@@ -8509,7 +8509,7 @@
                 "mean_point_longitude": 127.36592062147415,
                 "shape_area_m2": 14.917180391100445
             },
-            "image_url": "images/map/202402603C00810034_cropped_273.tif"
+            "image_url": "images/map/202402603C00810034_cropped_273.png"
         },
         {
             "shape_attributes": {
@@ -8551,7 +8551,7 @@
                 "mean_point_longitude": 127.36707875989599,
                 "shape_area_m2": 123.78861180741943
             },
-            "image_url": "images/map/202402603C00810034_cropped_274.tif"
+            "image_url": "images/map/202402603C00810034_cropped_274.png"
         },
         {
             "shape_attributes": {
@@ -8573,7 +8573,7 @@
                 "mean_point_longitude": 127.36771364959367,
                 "shape_area_m2": 5.360720914165363
             },
-            "image_url": "images/map/202402603C00810034_cropped_275.tif"
+            "image_url": "images/map/202402603C00810034_cropped_275.png"
         },
         {
             "shape_attributes": {
@@ -8601,7 +8601,7 @@
                 "mean_point_longitude": 127.36702598538024,
                 "shape_area_m2": 21.35243942002075
             },
-            "image_url": "images/map/202402603C00810034_cropped_276.tif"
+            "image_url": "images/map/202402603C00810034_cropped_276.png"
         },
         {
             "shape_attributes": {
@@ -8635,7 +8635,7 @@
                 "mean_point_longitude": 127.36737415213798,
                 "shape_area_m2": 15.466375147868773
             },
-            "image_url": "images/map/202402603C00810034_cropped_277.tif"
+            "image_url": "images/map/202402603C00810034_cropped_277.png"
         },
         {
             "shape_attributes": {
@@ -8661,7 +8661,7 @@
                 "mean_point_longitude": 127.36740513783977,
                 "shape_area_m2": 13.193636725284172
             },
-            "image_url": "images/map/202402603C00810034_cropped_278.tif"
+            "image_url": "images/map/202402603C00810034_cropped_278.png"
         },
         {
             "shape_attributes": {
@@ -8693,7 +8693,7 @@
                 "mean_point_longitude": 127.36717234261289,
                 "shape_area_m2": 18.970960312247836
             },
-            "image_url": "images/map/202402603C00810034_cropped_279.tif"
+            "image_url": "images/map/202402603C00810034_cropped_279.png"
         },
         {
             "shape_attributes": {
@@ -8723,7 +8723,7 @@
                 "mean_point_longitude": 127.36697927925195,
                 "shape_area_m2": 8.37014959696068
             },
-            "image_url": "images/map/202402603C00810034_cropped_280.tif"
+            "image_url": "images/map/202402603C00810034_cropped_280.png"
         },
         {
             "shape_attributes": {
@@ -8751,7 +8751,7 @@
                 "mean_point_longitude": 127.36708727438909,
                 "shape_area_m2": 9.849141422948268
             },
-            "image_url": "images/map/202402603C00810034_cropped_281.tif"
+            "image_url": "images/map/202402603C00810034_cropped_281.png"
         },
         {
             "shape_attributes": {
@@ -8777,7 +8777,7 @@
                 "mean_point_longitude": 127.36820587276819,
                 "shape_area_m2": 5.351684226379857
             },
-            "image_url": "images/map/202402603C00810034_cropped_282.tif"
+            "image_url": "images/map/202402603C00810034_cropped_282.png"
         },
         {
             "shape_attributes": {
@@ -8833,7 +8833,7 @@
                 "mean_point_longitude": 127.36937788223273,
                 "shape_area_m2": 57.33182779608929
             },
-            "image_url": "images/map/202402603C00810034_cropped_283.tif"
+            "image_url": "images/map/202402603C00810034_cropped_283.png"
         },
         {
             "shape_attributes": {
@@ -8867,7 +8867,7 @@
                 "mean_point_longitude": 127.3691924740899,
                 "shape_area_m2": 19.212270015707826
             },
-            "image_url": "images/map/202402603C00810034_cropped_284.tif"
+            "image_url": "images/map/202402603C00810034_cropped_284.png"
         },
         {
             "shape_attributes": {
@@ -8895,7 +8895,7 @@
                 "mean_point_longitude": 127.36944693958336,
                 "shape_area_m2": 21.385460727413225
             },
-            "image_url": "images/map/202402603C00810034_cropped_285.tif"
+            "image_url": "images/map/202402603C00810034_cropped_285.png"
         },
         {
             "shape_attributes": {
@@ -8933,7 +8933,7 @@
                 "mean_point_longitude": 127.36935792979241,
                 "shape_area_m2": 103.42918107505312
             },
-            "image_url": "images/map/202402603C00810034_cropped_286.tif"
+            "image_url": "images/map/202402603C00810034_cropped_286.png"
         },
         {
             "shape_attributes": {
@@ -8967,7 +8967,7 @@
                 "mean_point_longitude": 127.3695411987178,
                 "shape_area_m2": 59.60160988009174
             },
-            "image_url": "images/map/202402603C00810034_cropped_287.tif"
+            "image_url": "images/map/202402603C00810034_cropped_287.png"
         },
         {
             "shape_attributes": {
@@ -9005,7 +9005,7 @@
                 "mean_point_longitude": 127.36950572675917,
                 "shape_area_m2": 31.3341889512606
             },
-            "image_url": "images/map/202402603C00810034_cropped_288.tif"
+            "image_url": "images/map/202402603C00810034_cropped_288.png"
         },
         {
             "shape_attributes": {
@@ -9033,7 +9033,7 @@
                 "mean_point_longitude": 127.35691966561316,
                 "shape_area_m2": 9.592729964688022
             },
-            "image_url": "images/map/202402603C00810034_cropped_289.tif"
+            "image_url": "images/map/202402603C00810034_cropped_289.png"
         },
         {
             "shape_attributes": {
@@ -9073,7 +9073,7 @@
                 "mean_point_longitude": 127.35723320058923,
                 "shape_area_m2": 6.5863127795122995
             },
-            "image_url": "images/map/202402603C00810034_cropped_290.tif"
+            "image_url": "images/map/202402603C00810034_cropped_290.png"
         },
         {
             "shape_attributes": {
@@ -9097,7 +9097,7 @@
                 "mean_point_longitude": 127.3576452129286,
                 "shape_area_m2": 11.397775539127228
             },
-            "image_url": "images/map/202402603C00810034_cropped_291.tif"
+            "image_url": "images/map/202402603C00810034_cropped_291.png"
         },
         {
             "shape_attributes": {
@@ -9123,7 +9123,7 @@
                 "mean_point_longitude": 127.35764535903745,
                 "shape_area_m2": 10.75482742063907
             },
-            "image_url": "images/map/202402603C00810034_cropped_292.tif"
+            "image_url": "images/map/202402603C00810034_cropped_292.png"
         },
         {
             "shape_attributes": {
@@ -9149,7 +9149,7 @@
                 "mean_point_longitude": 127.35764606035993,
                 "shape_area_m2": 11.283068254577334
             },
-            "image_url": "images/map/202402603C00810034_cropped_293.tif"
+            "image_url": "images/map/202402603C00810034_cropped_293.png"
         },
         {
             "shape_attributes": {
@@ -9175,7 +9175,7 @@
                 "mean_point_longitude": 127.35764860265387,
                 "shape_area_m2": 10.489228568523835
             },
-            "image_url": "images/map/202402603C00810034_cropped_294.tif"
+            "image_url": "images/map/202402603C00810034_cropped_294.png"
         },
         {
             "shape_attributes": {
@@ -9201,7 +9201,7 @@
                 "mean_point_longitude": 127.35764430705375,
                 "shape_area_m2": 11.376656386513362
             },
-            "image_url": "images/map/202402603C00810034_cropped_295.tif"
+            "image_url": "images/map/202402603C00810034_cropped_295.png"
         },
         {
             "shape_attributes": {
@@ -9249,7 +9249,7 @@
                 "mean_point_longitude": 127.35772161324502,
                 "shape_area_m2": 271.6531525760138
             },
-            "image_url": "images/map/202402603C00810034_cropped_296.tif"
+            "image_url": "images/map/202402603C00810034_cropped_296.png"
         },
         {
             "shape_attributes": {
@@ -9275,7 +9275,7 @@
                 "mean_point_longitude": 127.3576437810619,
                 "shape_area_m2": 8.279692176177804
             },
-            "image_url": "images/map/202402603C00810034_cropped_297.tif"
+            "image_url": "images/map/202402603C00810034_cropped_297.png"
         },
         {
             "shape_attributes": {
@@ -9303,7 +9303,7 @@
                 "mean_point_longitude": 127.35764186338326,
                 "shape_area_m2": 9.912686053619652
             },
-            "image_url": "images/map/202402603C00810034_cropped_298.tif"
+            "image_url": "images/map/202402603C00810034_cropped_298.png"
         },
         {
             "shape_attributes": {
@@ -9327,7 +9327,7 @@
                 "mean_point_longitude": 127.35764807666202,
                 "shape_area_m2": 9.450850710847764
             },
-            "image_url": "images/map/202402603C00810034_cropped_299.tif"
+            "image_url": "images/map/202402603C00810034_cropped_299.png"
         },
         {
             "shape_attributes": {
@@ -9357,7 +9357,7 @@
                 "mean_point_longitude": 127.35716246929611,
                 "shape_area_m2": 11.011443279142117
             },
-            "image_url": "images/map/202402603C00810034_cropped_300.tif"
+            "image_url": "images/map/202402603C00810034_cropped_300.png"
         },
         {
             "shape_attributes": {
@@ -9387,7 +9387,7 @@
                 "mean_point_longitude": 127.3587793195443,
                 "shape_area_m2": 12.741035936801516
             },
-            "image_url": "images/map/202402603C00810034_cropped_301.tif"
+            "image_url": "images/map/202402603C00810034_cropped_301.png"
         },
         {
             "shape_attributes": {
@@ -9423,7 +9423,7 @@
                 "mean_point_longitude": 127.36112597861599,
                 "shape_area_m2": 88.4300228168202
             },
-            "image_url": "images/map/202402603C00810034_cropped_302.tif"
+            "image_url": "images/map/202402603C00810034_cropped_302.png"
         },
         {
             "shape_attributes": {
@@ -9449,7 +9449,7 @@
                 "mean_point_longitude": 127.3617962237326,
                 "shape_area_m2": 4.71790548005683
             },
-            "image_url": "images/map/202402603C00810034_cropped_303.tif"
+            "image_url": "images/map/202402603C00810034_cropped_303.png"
         },
         {
             "shape_attributes": {
@@ -9471,7 +9471,7 @@
                 "mean_point_longitude": 127.36116813686287,
                 "shape_area_m2": 7.787717300634104
             },
-            "image_url": "images/map/202402603C00810034_cropped_304.tif"
+            "image_url": "images/map/202402603C00810034_cropped_304.png"
         },
         {
             "shape_attributes": {
@@ -9509,7 +9509,7 @@
                 "mean_point_longitude": 127.36120266215877,
                 "shape_area_m2": 12.762191495113065
             },
-            "image_url": "images/map/202402603C00810034_cropped_305.tif"
+            "image_url": "images/map/202402603C00810034_cropped_305.png"
         },
         {
             "shape_attributes": {
@@ -9541,7 +9541,7 @@
                 "mean_point_longitude": 127.36225731695605,
                 "shape_area_m2": 36.68055155421246
             },
-            "image_url": "images/map/202402603C00810034_cropped_306.tif"
+            "image_url": "images/map/202402603C00810034_cropped_306.png"
         },
         {
             "shape_attributes": {
@@ -9585,7 +9585,7 @@
                 "mean_point_longitude": 127.36212355503662,
                 "shape_area_m2": 53.23376789191361
             },
-            "image_url": "images/map/202402603C00810034_cropped_307.tif"
+            "image_url": "images/map/202402603C00810034_cropped_307.png"
         },
         {
             "shape_attributes": {
@@ -9667,7 +9667,7 @@
                 "mean_point_longitude": 127.3624068301398,
                 "shape_area_m2": 257.20246176817136
             },
-            "image_url": "images/map/202402603C00810034_cropped_308.tif"
+            "image_url": "images/map/202402603C00810034_cropped_308.png"
         },
         {
             "shape_attributes": {
@@ -9697,7 +9697,7 @@
                 "mean_point_longitude": 127.36409556788914,
                 "shape_area_m2": 9.559474793316754
             },
-            "image_url": "images/map/202402603C00810034_cropped_309.tif"
+            "image_url": "images/map/202402603C00810034_cropped_309.png"
         },
         {
             "shape_attributes": {
@@ -9747,7 +9747,7 @@
                 "mean_point_longitude": 127.36394132462368,
                 "shape_area_m2": 128.5233237167864
             },
-            "image_url": "images/map/202402603C00810034_cropped_310.tif"
+            "image_url": "images/map/202402603C00810034_cropped_310.png"
         },
         {
             "shape_attributes": {
@@ -9773,7 +9773,7 @@
                 "mean_point_longitude": 127.36355847176533,
                 "shape_area_m2": 9.535328570571394
             },
-            "image_url": "images/map/202402603C00810034_cropped_311.tif"
+            "image_url": "images/map/202402603C00810034_cropped_311.png"
         },
         {
             "shape_attributes": {
@@ -9807,7 +9807,7 @@
                 "mean_point_longitude": 127.36363982517169,
                 "shape_area_m2": 65.11435861255266
             },
-            "image_url": "images/map/202402603C00810034_cropped_312.tif"
+            "image_url": "images/map/202402603C00810034_cropped_312.png"
         },
         {
             "shape_attributes": {
@@ -9855,7 +9855,7 @@
                 "mean_point_longitude": 127.36394419912301,
                 "shape_area_m2": 20.939252319304636
             },
-            "image_url": "images/map/202402603C00810034_cropped_313.tif"
+            "image_url": "images/map/202402603C00810034_cropped_313.png"
         },
         {
             "shape_attributes": {
@@ -9883,7 +9883,7 @@
                 "mean_point_longitude": 127.3641206255565,
                 "shape_area_m2": 13.471494733647528
             },
-            "image_url": "images/map/202402603C00810034_cropped_314.tif"
+            "image_url": "images/map/202402603C00810034_cropped_314.png"
         },
         {
             "shape_attributes": {
@@ -9961,7 +9961,7 @@
                 "mean_point_longitude": 127.36373663423758,
                 "shape_area_m2": 87.16136896334318
             },
-            "image_url": "images/map/202402603C00810034_cropped_315.tif"
+            "image_url": "images/map/202402603C00810034_cropped_315.png"
         },
         {
             "shape_attributes": {
@@ -9991,7 +9991,7 @@
                 "mean_point_longitude": 127.36499321194587,
                 "shape_area_m2": 12.125274408281545
             },
-            "image_url": "images/map/202402603C00810034_cropped_316.tif"
+            "image_url": "images/map/202402603C00810034_cropped_316.png"
         },
         {
             "shape_attributes": {
@@ -10017,7 +10017,7 @@
                 "mean_point_longitude": 127.36478096449325,
                 "shape_area_m2": 2.390640283782549
             },
-            "image_url": "images/map/202402603C00810034_cropped_317.tif"
+            "image_url": "images/map/202402603C00810034_cropped_317.png"
         },
         {
             "shape_attributes": {
@@ -10051,7 +10051,7 @@
                 "mean_point_longitude": 127.36555951212902,
                 "shape_area_m2": 34.012175438119385
             },
-            "image_url": "images/map/202402603C00810034_cropped_318.tif"
+            "image_url": "images/map/202402603C00810034_cropped_318.png"
         },
         {
             "shape_attributes": {
@@ -10107,7 +10107,7 @@
                 "mean_point_longitude": 127.36675237796743,
                 "shape_area_m2": 198.79026491638882
             },
-            "image_url": "images/map/202402603C00810034_cropped_319.tif"
+            "image_url": "images/map/202402603C00810034_cropped_319.png"
         },
         {
             "shape_attributes": {
@@ -10133,7 +10133,7 @@
                 "mean_point_longitude": 127.36589326192829,
                 "shape_area_m2": 5.753222035376334
             },
-            "image_url": "images/map/202402603C00810034_cropped_320.tif"
+            "image_url": "images/map/202402603C00810034_cropped_320.png"
         },
         {
             "shape_attributes": {
@@ -10179,7 +10179,7 @@
                 "mean_point_longitude": 127.3676657771157,
                 "shape_area_m2": 138.39640675399716
             },
-            "image_url": "images/map/202402603C00810034_cropped_321.tif"
+            "image_url": "images/map/202402603C00810034_cropped_321.png"
         },
         {
             "shape_attributes": {
@@ -10213,7 +10213,7 @@
                 "mean_point_longitude": 127.3670043400186,
                 "shape_area_m2": 60.11571351312402
             },
-            "image_url": "images/map/202402603C00810034_cropped_322.tif"
+            "image_url": "images/map/202402603C00810034_cropped_322.png"
         },
         {
             "shape_attributes": {
@@ -10241,7 +10241,7 @@
                 "mean_point_longitude": 127.36703825852344,
                 "shape_area_m2": 5.753179777625066
             },
-            "image_url": "images/map/202402603C00810034_cropped_323.tif"
+            "image_url": "images/map/202402603C00810034_cropped_323.png"
         },
         {
             "shape_attributes": {
@@ -10265,7 +10265,7 @@
                 "mean_point_longitude": 127.36802563289379,
                 "shape_area_m2": 4.956325050959243
             },
-            "image_url": "images/map/202402603C00810034_cropped_324.tif"
+            "image_url": "images/map/202402603C00810034_cropped_324.png"
         },
         {
             "shape_attributes": {
@@ -10305,7 +10305,7 @@
                 "mean_point_longitude": 127.35761322970187,
                 "shape_area_m2": 15.370335065514443
             },
-            "image_url": "images/map/202402603C00810034_cropped_325.tif"
+            "image_url": "images/map/202402603C00810034_cropped_325.png"
         },
         {
             "shape_attributes": {
@@ -10337,7 +10337,7 @@
                 "mean_point_longitude": 127.35738064487171,
                 "shape_area_m2": 12.267279743391962
             },
-            "image_url": "images/map/202402603C00810034_cropped_326.tif"
+            "image_url": "images/map/202402603C00810034_cropped_326.png"
         },
         {
             "shape_attributes": {
@@ -10377,7 +10377,7 @@
                 "mean_point_longitude": 127.35836294342069,
                 "shape_area_m2": 97.0763373142909
             },
-            "image_url": "images/map/202402603C00810034_cropped_327.tif"
+            "image_url": "images/map/202402603C00810034_cropped_327.png"
         },
         {
             "shape_attributes": {
@@ -10399,7 +10399,7 @@
                 "mean_point_longitude": 127.35820036810597,
                 "shape_area_m2": 11.669700163949015
             },
-            "image_url": "images/map/202402603C00810034_cropped_328.tif"
+            "image_url": "images/map/202402603C00810034_cropped_328.png"
         },
         {
             "shape_attributes": {
@@ -10423,7 +10423,7 @@
                 "mean_point_longitude": 127.3589197788498,
                 "shape_area_m2": 0.9115919187467465
             },
-            "image_url": "images/map/202402603C00810034_cropped_329.tif"
+            "image_url": "images/map/202402603C00810034_cropped_329.png"
         },
         {
             "shape_attributes": {
@@ -10457,7 +10457,7 @@
                 "mean_point_longitude": 127.35910032422453,
                 "shape_area_m2": 16.251833629073676
             },
-            "image_url": "images/map/202402603C00810034_cropped_330.tif"
+            "image_url": "images/map/202402603C00810034_cropped_330.png"
         },
         {
             "shape_attributes": {
@@ -10477,7 +10477,7 @@
                 "mean_point_longitude": 127.35892923939768,
                 "shape_area_m2": 0.0935739042171977
             },
-            "image_url": "images/map/202402603C00810034_cropped_331.tif"
+            "image_url": "images/map/202402603C00810034_cropped_331.png"
         },
         {
             "shape_attributes": {
@@ -10509,7 +10509,7 @@
                 "mean_point_longitude": 127.35851652427476,
                 "shape_area_m2": 5.765413159558845
             },
-            "image_url": "images/map/202402603C00810034_cropped_332.tif"
+            "image_url": "images/map/202402603C00810034_cropped_332.png"
         },
         {
             "shape_attributes": {
@@ -10543,7 +10543,7 @@
                 "mean_point_longitude": 127.36053371577611,
                 "shape_area_m2": 70.97126183839711
             },
-            "image_url": "images/map/202402603C00810034_cropped_333.tif"
+            "image_url": "images/map/202402603C00810034_cropped_333.png"
         },
         {
             "shape_attributes": {
@@ -10575,7 +10575,7 @@
                 "mean_point_longitude": 127.3604729860321,
                 "shape_area_m2": 102.18900073851373
             },
-            "image_url": "images/map/202402603C00810034_cropped_334.tif"
+            "image_url": "images/map/202402603C00810034_cropped_334.png"
         },
         {
             "shape_attributes": {
@@ -10643,7 +10643,7 @@
                 "mean_point_longitude": 127.3598632913441,
                 "shape_area_m2": 149.19725027499774
             },
-            "image_url": "images/map/202402603C00810034_cropped_335.tif"
+            "image_url": "images/map/202402603C00810034_cropped_335.png"
         },
         {
             "shape_attributes": {
@@ -10689,7 +10689,7 @@
                 "mean_point_longitude": 127.36022962404145,
                 "shape_area_m2": 116.52171987517356
             },
-            "image_url": "images/map/202402603C00810034_cropped_336.tif"
+            "image_url": "images/map/202402603C00810034_cropped_336.png"
         },
         {
             "shape_attributes": {
@@ -10727,7 +10727,7 @@
                 "mean_point_longitude": 127.3597730769981,
                 "shape_area_m2": 97.22072329156124
             },
-            "image_url": "images/map/202402603C00810034_cropped_337.tif"
+            "image_url": "images/map/202402603C00810034_cropped_337.png"
         },
         {
             "shape_attributes": {
@@ -10765,7 +10765,7 @@
                 "mean_point_longitude": 127.35999248303497,
                 "shape_area_m2": 94.87817412477379
             },
-            "image_url": "images/map/202402603C00810034_cropped_338.tif"
+            "image_url": "images/map/202402603C00810034_cropped_338.png"
         },
         {
             "shape_attributes": {
@@ -10797,7 +10797,7 @@
                 "mean_point_longitude": 127.36052146494772,
                 "shape_area_m2": 69.52548288774449
             },
-            "image_url": "images/map/202402603C00810034_cropped_339.tif"
+            "image_url": "images/map/202402603C00810034_cropped_339.png"
         },
         {
             "shape_attributes": {
@@ -10825,7 +10825,7 @@
                 "mean_point_longitude": 127.36037555261652,
                 "shape_area_m2": 16.982293483386293
             },
-            "image_url": "images/map/202402603C00810034_cropped_340.tif"
+            "image_url": "images/map/202402603C00810034_cropped_340.png"
         },
         {
             "shape_attributes": {
@@ -10855,7 +10855,7 @@
                 "mean_point_longitude": 127.36061299532234,
                 "shape_area_m2": 58.852107828701946
             },
-            "image_url": "images/map/202402603C00810034_cropped_341.tif"
+            "image_url": "images/map/202402603C00810034_cropped_341.png"
         },
         {
             "shape_attributes": {
@@ -10883,7 +10883,7 @@
                 "mean_point_longitude": 127.3601521814103,
                 "shape_area_m2": 21.645824940557326
             },
-            "image_url": "images/map/202402603C00810034_cropped_342.tif"
+            "image_url": "images/map/202402603C00810034_cropped_342.png"
         },
         {
             "shape_attributes": {
@@ -10965,7 +10965,7 @@
                 "mean_point_longitude": 127.35985789116108,
                 "shape_area_m2": 143.57932629703632
             },
-            "image_url": "images/map/202402603C00810034_cropped_343.tif"
+            "image_url": "images/map/202402603C00810034_cropped_343.png"
         },
         {
             "shape_attributes": {
@@ -11001,7 +11001,7 @@
                 "mean_point_longitude": 127.35982241739397,
                 "shape_area_m2": 89.48072744419673
             },
-            "image_url": "images/map/202402603C00810034_cropped_344.tif"
+            "image_url": "images/map/202402603C00810034_cropped_344.png"
         },
         {
             "shape_attributes": {
@@ -11029,7 +11029,7 @@
                 "mean_point_longitude": 127.36038007833807,
                 "shape_area_m2": 12.876993356091793
             },
-            "image_url": "images/map/202402603C00810034_cropped_345.tif"
+            "image_url": "images/map/202402603C00810034_cropped_345.png"
         },
         {
             "shape_attributes": {
@@ -11061,7 +11061,7 @@
                 "mean_point_longitude": 127.35968492750729,
                 "shape_area_m2": 27.486630247499253
             },
-            "image_url": "images/map/202402603C00810034_cropped_346.tif"
+            "image_url": "images/map/202402603C00810034_cropped_346.png"
         },
         {
             "shape_attributes": {
@@ -11103,7 +11103,7 @@
                 "mean_point_longitude": 127.36010319622751,
                 "shape_area_m2": 95.1169043197261
             },
-            "image_url": "images/map/202402603C00810034_cropped_347.tif"
+            "image_url": "images/map/202402603C00810034_cropped_347.png"
         },
         {
             "shape_attributes": {
@@ -11125,7 +11125,7 @@
                 "mean_point_longitude": 127.36010786002193,
                 "shape_area_m2": 0.4256138197650164
             },
-            "image_url": "images/map/202402603C00810034_cropped_348.tif"
+            "image_url": "images/map/202402603C00810034_cropped_348.png"
         },
         {
             "shape_attributes": {
@@ -11155,7 +11155,7 @@
                 "mean_point_longitude": 127.36004706705262,
                 "shape_area_m2": 14.724312960085282
             },
-            "image_url": "images/map/202402603C00810034_cropped_349.tif"
+            "image_url": "images/map/202402603C00810034_cropped_349.png"
         },
         {
             "shape_attributes": {
@@ -11183,7 +11183,7 @@
                 "mean_point_longitude": 127.35998273532701,
                 "shape_area_m2": 9.559633293303653
             },
-            "image_url": "images/map/202402603C00810034_cropped_350.tif"
+            "image_url": "images/map/202402603C00810034_cropped_350.png"
         },
         {
             "shape_attributes": {
@@ -11233,7 +11233,7 @@
                 "mean_point_longitude": 127.36089961986833,
                 "shape_area_m2": 169.34747201714316
             },
-            "image_url": "images/map/202402603C00810034_cropped_351.tif"
+            "image_url": "images/map/202402603C00810034_cropped_351.png"
         },
         {
             "shape_attributes": {
@@ -11285,7 +11285,7 @@
                 "mean_point_longitude": 127.36116463901706,
                 "shape_area_m2": 234.95156791312212
             },
-            "image_url": "images/map/202402603C00810034_cropped_352.tif"
+            "image_url": "images/map/202402603C00810034_cropped_352.png"
         },
         {
             "shape_attributes": {
@@ -11317,7 +11317,7 @@
                 "mean_point_longitude": 127.36072121035329,
                 "shape_area_m2": 46.33425982974469
             },
-            "image_url": "images/map/202402603C00810034_cropped_353.tif"
+            "image_url": "images/map/202402603C00810034_cropped_353.png"
         },
         {
             "shape_attributes": {
@@ -11345,7 +11345,7 @@
                 "mean_point_longitude": 127.36107527519314,
                 "shape_area_m2": 5.961543959204124
             },
-            "image_url": "images/map/202402603C00810034_cropped_354.tif"
+            "image_url": "images/map/202402603C00810034_cropped_354.png"
         },
         {
             "shape_attributes": {
@@ -11387,7 +11387,7 @@
                 "mean_point_longitude": 127.36270436619706,
                 "shape_area_m2": 13.72513824305881
             },
-            "image_url": "images/map/202402603C00810034_cropped_355.tif"
+            "image_url": "images/map/202402603C00810034_cropped_355.png"
         },
         {
             "shape_attributes": {
@@ -11415,7 +11415,7 @@
                 "mean_point_longitude": 127.3626102618716,
                 "shape_area_m2": 15.883482632893434
             },
-            "image_url": "images/map/202402603C00810034_cropped_356.tif"
+            "image_url": "images/map/202402603C00810034_cropped_356.png"
         },
         {
             "shape_attributes": {
@@ -11467,7 +11467,7 @@
                 "mean_point_longitude": 127.36283814345794,
                 "shape_area_m2": 64.33677940683174
             },
-            "image_url": "images/map/202402603C00810034_cropped_357.tif"
+            "image_url": "images/map/202402603C00810034_cropped_357.png"
         },
         {
             "shape_attributes": {
@@ -11505,7 +11505,7 @@
                 "mean_point_longitude": 127.3626330497942,
                 "shape_area_m2": 83.6887629776089
             },
-            "image_url": "images/map/202402603C00810034_cropped_358.tif"
+            "image_url": "images/map/202402603C00810034_cropped_358.png"
         },
         {
             "shape_attributes": {
@@ -11585,7 +11585,7 @@
                 "mean_point_longitude": 127.36222334200788,
                 "shape_area_m2": 420.04395631862576
             },
-            "image_url": "images/map/202402603C00810034_cropped_359.tif"
+            "image_url": "images/map/202402603C00810034_cropped_359.png"
         },
         {
             "shape_attributes": {
@@ -11611,7 +11611,7 @@
                 "mean_point_longitude": 127.36437840539632,
                 "shape_area_m2": 3.5678851348739133
             },
-            "image_url": "images/map/202402603C00810034_cropped_360.tif"
+            "image_url": "images/map/202402603C00810034_cropped_360.png"
         },
         {
             "shape_attributes": {
@@ -11653,7 +11653,7 @@
                 "mean_point_longitude": 127.36543869977034,
                 "shape_area_m2": 62.59780314658046
             },
-            "image_url": "images/map/202402603C00810034_cropped_361.tif"
+            "image_url": "images/map/202402603C00810034_cropped_361.png"
         },
         {
             "shape_attributes": {
@@ -11689,7 +11689,7 @@
                 "mean_point_longitude": 127.36561544326001,
                 "shape_area_m2": 25.150197845532162
             },
-            "image_url": "images/map/202402603C00810034_cropped_362.tif"
+            "image_url": "images/map/202402603C00810034_cropped_362.png"
         },
         {
             "shape_attributes": {
@@ -11715,7 +11715,7 @@
                 "mean_point_longitude": 127.36461369908452,
                 "shape_area_m2": 2.73778388880255
             },
-            "image_url": "images/map/202402603C00810034_cropped_363.tif"
+            "image_url": "images/map/202402603C00810034_cropped_363.png"
         },
         {
             "shape_attributes": {
@@ -11745,7 +11745,7 @@
                 "mean_point_longitude": 127.36726967545687,
                 "shape_area_m2": 8.55148602026614
             },
-            "image_url": "images/map/202402603C00810034_cropped_364.tif"
+            "image_url": "images/map/202402603C00810034_cropped_364.png"
         },
         {
             "shape_attributes": {
@@ -11771,7 +11771,7 @@
                 "mean_point_longitude": 127.37071704553198,
                 "shape_area_m2": 5.846854626078642
             },
-            "image_url": "images/map/202402603C00810034_cropped_365.tif"
+            "image_url": "images/map/202402603C00810034_cropped_365.png"
         },
         {
             "shape_attributes": {
@@ -11795,7 +11795,7 @@
                 "mean_point_longitude": 127.37070659874938,
                 "shape_area_m2": 5.744228618423875
             },
-            "image_url": "images/map/202402603C00810034_cropped_366.tif"
+            "image_url": "images/map/202402603C00810034_cropped_366.png"
         },
         {
             "shape_attributes": {
@@ -11835,7 +11835,7 @@
                 "mean_point_longitude": 127.35802968375019,
                 "shape_area_m2": 125.41777328261654
             },
-            "image_url": "images/map/202402603C00810034_cropped_367.tif"
+            "image_url": "images/map/202402603C00810034_cropped_367.png"
         },
         {
             "shape_attributes": {
@@ -11861,7 +11861,7 @@
                 "mean_point_longitude": 127.35937858985305,
                 "shape_area_m2": 9.925033740258957
             },
-            "image_url": "images/map/202402603C00810034_cropped_368.tif"
+            "image_url": "images/map/202402603C00810034_cropped_368.png"
         },
         {
             "shape_attributes": {
@@ -11889,7 +11889,7 @@
                 "mean_point_longitude": 127.35819607250585,
                 "shape_area_m2": 36.92589402072127
             },
-            "image_url": "images/map/202402603C00810034_cropped_369.tif"
+            "image_url": "images/map/202402603C00810034_cropped_369.png"
         },
         {
             "shape_attributes": {
@@ -11921,7 +11921,7 @@
                 "mean_point_longitude": 127.3593895129505,
                 "shape_area_m2": 9.233759560699015
             },
-            "image_url": "images/map/202402603C00810034_cropped_370.tif"
+            "image_url": "images/map/202402603C00810034_cropped_370.png"
         },
         {
             "shape_attributes": {
@@ -11981,7 +11981,7 @@
                 "mean_point_longitude": 127.35885204644077,
                 "shape_area_m2": 33.16498771748144
             },
-            "image_url": "images/map/202402603C00810034_cropped_371.tif"
+            "image_url": "images/map/202402603C00810034_cropped_371.png"
         },
         {
             "shape_attributes": {
@@ -12017,7 +12017,7 @@
                 "mean_point_longitude": 127.36013395067884,
                 "shape_area_m2": 29.959076977196332
             },
-            "image_url": "images/map/202402603C00810034_cropped_372.tif"
+            "image_url": "images/map/202402603C00810034_cropped_372.png"
         },
         {
             "shape_attributes": {
@@ -12055,7 +12055,7 @@
                 "mean_point_longitude": 127.36035779786273,
                 "shape_area_m2": 101.78234801953326
             },
-            "image_url": "images/map/202402603C00810034_cropped_373.tif"
+            "image_url": "images/map/202402603C00810034_cropped_373.png"
         },
         {
             "shape_attributes": {
@@ -12079,7 +12079,7 @@
                 "mean_point_longitude": 127.3605574252573,
                 "shape_area_m2": 2.4480427937232174
             },
-            "image_url": "images/map/202402603C00810034_cropped_374.tif"
+            "image_url": "images/map/202402603C00810034_cropped_374.png"
         },
         {
             "shape_attributes": {
@@ -12111,7 +12111,7 @@
                 "mean_point_longitude": 127.35943167119738,
                 "shape_area_m2": 7.609790768403794
             },
-            "image_url": "images/map/202402603C00810034_cropped_375.tif"
+            "image_url": "images/map/202402603C00810034_cropped_375.png"
         },
         {
             "shape_attributes": {
@@ -12153,7 +12153,7 @@
                 "mean_point_longitude": 127.35991688991375,
                 "shape_area_m2": 17.685674044237963
             },
-            "image_url": "images/map/202402603C00810034_cropped_376.tif"
+            "image_url": "images/map/202402603C00810034_cropped_376.png"
         },
         {
             "shape_attributes": {
@@ -12175,7 +12175,7 @@
                 "mean_point_longitude": 127.35946904291842,
                 "shape_area_m2": 0.18111442406090952
             },
-            "image_url": "images/map/202402603C00810034_cropped_377.tif"
+            "image_url": "images/map/202402603C00810034_cropped_377.png"
         },
         {
             "shape_attributes": {
@@ -12203,7 +12203,7 @@
                 "mean_point_longitude": 127.36013622632414,
                 "shape_area_m2": 15.756897552482732
             },
-            "image_url": "images/map/202402603C00810034_cropped_378.tif"
+            "image_url": "images/map/202402603C00810034_cropped_378.png"
         },
         {
             "shape_attributes": {
@@ -12239,7 +12239,7 @@
                 "mean_point_longitude": 127.3600993813255,
                 "shape_area_m2": 15.542484911930181
             },
-            "image_url": "images/map/202402603C00810034_cropped_379.tif"
+            "image_url": "images/map/202402603C00810034_cropped_379.png"
         },
         {
             "shape_attributes": {
@@ -12289,7 +12289,7 @@
                 "mean_point_longitude": 127.36051072271765,
                 "shape_area_m2": 60.041981654048165
             },
-            "image_url": "images/map/202402603C00810034_cropped_380.tif"
+            "image_url": "images/map/202402603C00810034_cropped_380.png"
         },
         {
             "shape_attributes": {
@@ -12321,7 +12321,7 @@
                 "mean_point_longitude": 127.36095587285125,
                 "shape_area_m2": 13.03119189072787
             },
-            "image_url": "images/map/202402603C00810034_cropped_381.tif"
+            "image_url": "images/map/202402603C00810034_cropped_381.png"
         },
         {
             "shape_attributes": {
@@ -12347,7 +12347,7 @@
                 "mean_point_longitude": 127.36158416135119,
                 "shape_area_m2": 13.028139820715145
             },
-            "image_url": "images/map/202402603C00810034_cropped_382.tif"
+            "image_url": "images/map/202402603C00810034_cropped_382.png"
         },
         {
             "shape_attributes": {
@@ -12377,7 +12377,7 @@
                 "mean_point_longitude": 127.36167319034233,
                 "shape_area_m2": 27.384379901284127
             },
-            "image_url": "images/map/202402603C00810034_cropped_383.tif"
+            "image_url": "images/map/202402603C00810034_cropped_383.png"
         },
         {
             "shape_attributes": {
@@ -12415,7 +12415,7 @@
                 "mean_point_longitude": 127.36149112822835,
                 "shape_area_m2": 66.35371481696471
             },
-            "image_url": "images/map/202402603C00810034_cropped_384.tif"
+            "image_url": "images/map/202402603C00810034_cropped_384.png"
         },
         {
             "shape_attributes": {
@@ -12447,7 +12447,7 @@
                 "mean_point_longitude": 127.36136499807978,
                 "shape_area_m2": 20.215375487724074
             },
-            "image_url": "images/map/202402603C00810034_cropped_385.tif"
+            "image_url": "images/map/202402603C00810034_cropped_385.png"
         },
         {
             "shape_attributes": {
@@ -12471,7 +12471,7 @@
                 "mean_point_longitude": 127.36176111377652,
                 "shape_area_m2": 4.796508304887707
             },
-            "image_url": "images/map/202402603C00810034_cropped_386.tif"
+            "image_url": "images/map/202402603C00810034_cropped_386.png"
         },
         {
             "shape_attributes": {
@@ -12509,7 +12509,7 @@
                 "mean_point_longitude": 127.3615164297851,
                 "shape_area_m2": 6.402343995839521
             },
-            "image_url": "images/map/202402603C00810034_cropped_387.tif"
+            "image_url": "images/map/202402603C00810034_cropped_387.png"
         },
         {
             "shape_attributes": {
@@ -12539,7 +12539,7 @@
                 "mean_point_longitude": 127.36271811211745,
                 "shape_area_m2": 8.334252785467744
             },
-            "image_url": "images/map/202402603C00810034_cropped_388.tif"
+            "image_url": "images/map/202402603C00810034_cropped_388.png"
         },
         {
             "shape_attributes": {
@@ -12575,7 +12575,7 @@
                 "mean_point_longitude": 127.36264810406313,
                 "shape_area_m2": 56.069761097487465
             },
-            "image_url": "images/map/202402603C00810034_cropped_389.tif"
+            "image_url": "images/map/202402603C00810034_cropped_389.png"
         },
         {
             "shape_attributes": {
@@ -12605,7 +12605,7 @@
                 "mean_point_longitude": 127.3625298557376,
                 "shape_area_m2": 65.90422006773939
             },
-            "image_url": "images/map/202402603C00810034_cropped_390.tif"
+            "image_url": "images/map/202402603C00810034_cropped_390.png"
         },
         {
             "shape_attributes": {
@@ -12633,7 +12633,7 @@
                 "mean_point_longitude": 127.36258962764958,
                 "shape_area_m2": 18.374042212646366
             },
-            "image_url": "images/map/202402603C00810034_cropped_391.tif"
+            "image_url": "images/map/202402603C00810034_cropped_391.png"
         },
         {
             "shape_attributes": {
@@ -12659,7 +12659,7 @@
                 "mean_point_longitude": 127.36200951342833,
                 "shape_area_m2": 13.716362891798074
             },
-            "image_url": "images/map/202402603C00810034_cropped_392.tif"
+            "image_url": "images/map/202402603C00810034_cropped_392.png"
         },
         {
             "shape_attributes": {
@@ -12689,7 +12689,7 @@
                 "mean_point_longitude": 127.36406822605345,
                 "shape_area_m2": 21.86036780610216
             },
-            "image_url": "images/map/202402603C00810034_cropped_393.tif"
+            "image_url": "images/map/202402603C00810034_cropped_393.png"
         },
         {
             "shape_attributes": {
@@ -12715,7 +12715,7 @@
                 "mean_point_longitude": 127.36348264127344,
                 "shape_area_m2": 4.156539428502072
             },
-            "image_url": "images/map/202402603C00810034_cropped_394.tif"
+            "image_url": "images/map/202402603C00810034_cropped_394.png"
         },
         {
             "shape_attributes": {
@@ -12747,7 +12747,7 @@
                 "mean_point_longitude": 127.36371180715655,
                 "shape_area_m2": 16.66238122488846
             },
-            "image_url": "images/map/202402603C00810034_cropped_395.tif"
+            "image_url": "images/map/202402603C00810034_cropped_395.png"
         },
         {
             "shape_attributes": {
@@ -12773,7 +12773,7 @@
                 "mean_point_longitude": 127.36903255662794,
                 "shape_area_m2": 20.94578517031416
             },
-            "image_url": "images/map/202402603C00810034_cropped_396.tif"
+            "image_url": "images/map/202402603C00810034_cropped_396.png"
         },
         {
             "shape_attributes": {
@@ -12803,7 +12803,7 @@
                 "mean_point_longitude": 127.37054408187818,
                 "shape_area_m2": 5.128504609264607
             },
-            "image_url": "images/map/202402603C00810034_cropped_397.tif"
+            "image_url": "images/map/202402603C00810034_cropped_397.png"
         },
         {
             "shape_attributes": {
@@ -12833,7 +12833,7 @@
                 "mean_point_longitude": 127.36969334850212,
                 "shape_area_m2": 21.226495576353912
             },
-            "image_url": "images/map/202402603C00810034_cropped_398.tif"
+            "image_url": "images/map/202402603C00810034_cropped_398.png"
         },
         {
             "shape_attributes": {
@@ -12875,7 +12875,7 @@
                 "mean_point_longitude": 127.36954275703506,
                 "shape_area_m2": 70.33852625548536
             },
-            "image_url": "images/map/202402603C00810034_cropped_399.tif"
+            "image_url": "images/map/202402603C00810034_cropped_399.png"
         },
         {
             "shape_attributes": {
@@ -12899,7 +12899,7 @@
                 "mean_point_longitude": 127.37016883052488,
                 "shape_area_m2": 9.87671035326918
             },
-            "image_url": "images/map/202402603C00810034_cropped_400.tif"
+            "image_url": "images/map/202402603C00810034_cropped_400.png"
         },
         {
             "shape_attributes": {
@@ -12927,7 +12927,7 @@
                 "mean_point_longitude": 127.35919081076212,
                 "shape_area_m2": 9.327488145797613
             },
-            "image_url": "images/map/202402603C00810034_cropped_401.tif"
+            "image_url": "images/map/202402603C00810034_cropped_401.png"
         },
         {
             "shape_attributes": {
@@ -12961,7 +12961,7 @@
                 "mean_point_longitude": 127.35904682447757,
                 "shape_area_m2": 21.504640968977164
             },
-            "image_url": "images/map/202402603C00810034_cropped_402.tif"
+            "image_url": "images/map/202402603C00810034_cropped_402.png"
         },
         {
             "shape_attributes": {
@@ -12987,7 +12987,7 @@
                 "mean_point_longitude": 127.35944039389558,
                 "shape_area_m2": 8.820331908485525
             },
-            "image_url": "images/map/202402603C00810034_cropped_403.tif"
+            "image_url": "images/map/202402603C00810034_cropped_403.png"
         },
         {
             "shape_attributes": {
@@ -13015,7 +13015,7 @@
                 "mean_point_longitude": 127.35945882552672,
                 "shape_area_m2": 12.687157281917333
             },
-            "image_url": "images/map/202402603C00810034_cropped_404.tif"
+            "image_url": "images/map/202402603C00810034_cropped_404.png"
         },
         {
             "shape_attributes": {
@@ -13051,7 +13051,7 @@
                 "mean_point_longitude": 127.35969687336667,
                 "shape_area_m2": 14.190407223916864
             },
-            "image_url": "images/map/202402603C00810034_cropped_405.tif"
+            "image_url": "images/map/202402603C00810034_cropped_405.png"
         },
         {
             "shape_attributes": {
@@ -13077,7 +13077,7 @@
                 "mean_point_longitude": 127.35971873125027,
                 "shape_area_m2": 13.77384558378003
             },
-            "image_url": "images/map/202402603C00810034_cropped_406.tif"
+            "image_url": "images/map/202402603C00810034_cropped_406.png"
         },
         {
             "shape_attributes": {
@@ -13107,7 +13107,7 @@
                 "mean_point_longitude": 127.3607085212869,
                 "shape_area_m2": 11.745337828976478
             },
-            "image_url": "images/map/202402603C00810034_cropped_407.tif"
+            "image_url": "images/map/202402603C00810034_cropped_407.png"
         },
         {
             "shape_attributes": {
@@ -13137,7 +13137,7 @@
                 "mean_point_longitude": 127.36492911886472,
                 "shape_area_m2": 4.485622671222686
             },
-            "image_url": "images/map/202402603C00810034_cropped_408.tif"
+            "image_url": "images/map/202402603C00810034_cropped_408.png"
         },
         {
             "shape_attributes": {
@@ -13213,7 +13213,7 @@
                 "mean_point_longitude": 127.36789601699553,
                 "shape_area_m2": 205.03347318133808
             },
-            "image_url": "images/map/202402603C00810034_cropped_409.tif"
+            "image_url": "images/map/202402603C00810034_cropped_409.png"
         },
         {
             "shape_attributes": {
@@ -13307,7 +13307,7 @@
                 "mean_point_longitude": 127.36909002872133,
                 "shape_area_m2": 186.2778451953042
             },
-            "image_url": "images/map/202402603C00810034_cropped_410.tif"
+            "image_url": "images/map/202402603C00810034_cropped_410.png"
         },
         {
             "shape_attributes": {
@@ -13335,7 +13335,7 @@
                 "mean_point_longitude": 127.35804457589448,
                 "shape_area_m2": 12.295003941162285
             },
-            "image_url": "images/map/202402603C00810034_cropped_411.tif"
+            "image_url": "images/map/202402603C00810034_cropped_411.png"
         },
         {
             "shape_attributes": {
@@ -13363,7 +13363,7 @@
                 "mean_point_longitude": 127.35808154873837,
                 "shape_area_m2": 15.603409225640576
             },
-            "image_url": "images/map/202402603C00810034_cropped_412.tif"
+            "image_url": "images/map/202402603C00810034_cropped_412.png"
         },
         {
             "shape_attributes": {
@@ -13389,7 +13389,7 @@
                 "mean_point_longitude": 127.3577901821272,
                 "shape_area_m2": 14.066941734677412
             },
-            "image_url": "images/map/202402603C00810034_cropped_413.tif"
+            "image_url": "images/map/202402603C00810034_cropped_413.png"
         },
         {
             "shape_attributes": {
@@ -13415,7 +13415,7 @@
                 "mean_point_longitude": 127.35771803357825,
                 "shape_area_m2": 8.449194436841793
             },
-            "image_url": "images/map/202402603C00810034_cropped_414.tif"
+            "image_url": "images/map/202402603C00810034_cropped_414.png"
         },
         {
             "shape_attributes": {
@@ -13447,7 +13447,7 @@
                 "mean_point_longitude": 127.3575320954588,
                 "shape_area_m2": 6.142959162105388
             },
-            "image_url": "images/map/202402603C00810034_cropped_415.tif"
+            "image_url": "images/map/202402603C00810034_cropped_415.png"
         },
         {
             "shape_attributes": {
@@ -13481,7 +13481,7 @@
                 "mean_point_longitude": 127.35771306853395,
                 "shape_area_m2": 18.277931150727255
             },
-            "image_url": "images/map/202402603C00810034_cropped_416.tif"
+            "image_url": "images/map/202402603C00810034_cropped_416.png"
         },
         {
             "shape_attributes": {
@@ -13507,7 +13507,7 @@
                 "mean_point_longitude": 127.35864632153063,
                 "shape_area_m2": 17.411548292556063
             },
-            "image_url": "images/map/202402603C00810034_cropped_417.tif"
+            "image_url": "images/map/202402603C00810034_cropped_417.png"
         },
         {
             "shape_attributes": {
@@ -13535,7 +13535,7 @@
                 "mean_point_longitude": 127.35876186440731,
                 "shape_area_m2": 17.456791974936763
             },
-            "image_url": "images/map/202402603C00810034_cropped_418.tif"
+            "image_url": "images/map/202402603C00810034_cropped_418.png"
         },
         {
             "shape_attributes": {
@@ -13563,7 +13563,7 @@
                 "mean_point_longitude": 127.35902819161473,
                 "shape_area_m2": 13.269952796164493
             },
-            "image_url": "images/map/202402603C00810034_cropped_419.tif"
+            "image_url": "images/map/202402603C00810034_cropped_419.png"
         },
         {
             "shape_attributes": {
@@ -13597,7 +13597,7 @@
                 "mean_point_longitude": 127.3583639356326,
                 "shape_area_m2": 36.649484345308714
             },
-            "image_url": "images/map/202402603C00810034_cropped_420.tif"
+            "image_url": "images/map/202402603C00810034_cropped_420.png"
         },
         {
             "shape_attributes": {
@@ -13629,7 +13629,7 @@
                 "mean_point_longitude": 127.35879665876828,
                 "shape_area_m2": 25.60125791874924
             },
-            "image_url": "images/map/202402603C00810034_cropped_421.tif"
+            "image_url": "images/map/202402603C00810034_cropped_421.png"
         },
         {
             "shape_attributes": {
@@ -13661,7 +13661,7 @@
                 "mean_point_longitude": 127.35901640939726,
                 "shape_area_m2": 18.202371583558428
             },
-            "image_url": "images/map/202402603C00810034_cropped_422.tif"
+            "image_url": "images/map/202402603C00810034_cropped_422.png"
         },
         {
             "shape_attributes": {
@@ -13689,7 +13689,7 @@
                 "mean_point_longitude": 127.35900318508546,
                 "shape_area_m2": 7.703571494839206
             },
-            "image_url": "images/map/202402603C00810034_cropped_423.tif"
+            "image_url": "images/map/202402603C00810034_cropped_423.png"
         },
         {
             "shape_attributes": {
@@ -13719,7 +13719,7 @@
                 "mean_point_longitude": 127.35904387396437,
                 "shape_area_m2": 9.997733383064544
             },
-            "image_url": "images/map/202402603C00810034_cropped_424.tif"
+            "image_url": "images/map/202402603C00810034_cropped_424.png"
         },
         {
             "shape_attributes": {
@@ -13755,7 +13755,7 @@
                 "mean_point_longitude": 127.35836937951542,
                 "shape_area_m2": 11.018018830274972
             },
-            "image_url": "images/map/202402603C00810034_cropped_425.tif"
+            "image_url": "images/map/202402603C00810034_cropped_425.png"
         },
         {
             "shape_attributes": {
@@ -13789,7 +13789,7 @@
                 "mean_point_longitude": 127.35915259665715,
                 "shape_area_m2": 12.826130694488937
             },
-            "image_url": "images/map/202402603C00810034_cropped_426.tif"
+            "image_url": "images/map/202402603C00810034_cropped_426.png"
         },
         {
             "shape_attributes": {
@@ -13825,7 +13825,7 @@
                 "mean_point_longitude": 127.35873322707317,
                 "shape_area_m2": 2.801284069667004
             },
-            "image_url": "images/map/202402603C00810034_cropped_427.tif"
+            "image_url": "images/map/202402603C00810034_cropped_427.png"
         },
         {
             "shape_attributes": {
@@ -13851,7 +13851,7 @@
                 "mean_point_longitude": 127.35857101703057,
                 "shape_area_m2": 9.059000401825994
             },
-            "image_url": "images/map/202402603C00810034_cropped_428.tif"
+            "image_url": "images/map/202402603C00810034_cropped_428.png"
         },
         {
             "shape_attributes": {
@@ -13885,7 +13885,7 @@
                 "mean_point_longitude": 127.35897569603404,
                 "shape_area_m2": 20.2157580357118
             },
-            "image_url": "images/map/202402603C00810034_cropped_429.tif"
+            "image_url": "images/map/202402603C00810034_cropped_429.png"
         },
         {
             "shape_attributes": {
@@ -13913,7 +13913,7 @@
                 "mean_point_longitude": 127.35991653706088,
                 "shape_area_m2": 9.049881505101014
             },
-            "image_url": "images/map/202402603C00810034_cropped_430.tif"
+            "image_url": "images/map/202402603C00810034_cropped_430.png"
         },
         {
             "shape_attributes": {
@@ -13943,7 +13943,7 @@
                 "mean_point_longitude": 127.36795158492981,
                 "shape_area_m2": 28.103432682262863
             },
-            "image_url": "images/map/202402603C00810034_cropped_431.tif"
+            "image_url": "images/map/202402603C00810034_cropped_431.png"
         },
         {
             "shape_attributes": {
@@ -13971,7 +13971,7 @@
                 "mean_point_longitude": 127.36818433997678,
                 "shape_area_m2": 21.024706653377237
             },
-            "image_url": "images/map/202402603C00810034_cropped_432.tif"
+            "image_url": "images/map/202402603C00810034_cropped_432.png"
         },
         {
             "shape_attributes": {
@@ -14005,7 +14005,7 @@
                 "mean_point_longitude": 127.36782864894545,
                 "shape_area_m2": 79.93015962164947
             },
-            "image_url": "images/map/202402603C00810034_cropped_433.tif"
+            "image_url": "images/map/202402603C00810034_cropped_433.png"
         },
         {
             "shape_attributes": {
@@ -14055,7 +14055,7 @@
                 "mean_point_longitude": 127.36717271403695,
                 "shape_area_m2": 76.5555082637011
             },
-            "image_url": "images/map/202402603C00810034_cropped_434.tif"
+            "image_url": "images/map/202402603C00810034_cropped_434.png"
         },
         {
             "shape_attributes": {
@@ -14081,7 +14081,7 @@
                 "mean_point_longitude": 127.36756994861987,
                 "shape_area_m2": 7.6763898768610215
             },
-            "image_url": "images/map/202402603C00810034_cropped_435.tif"
+            "image_url": "images/map/202402603C00810034_cropped_435.png"
         },
         {
             "shape_attributes": {
@@ -14113,7 +14113,7 @@
                 "mean_point_longitude": 127.36859823638973,
                 "shape_area_m2": 31.607884059602995
             },
-            "image_url": "images/map/202402603C00810034_cropped_436.tif"
+            "image_url": "images/map/202402603C00810034_cropped_436.png"
         },
         {
             "shape_attributes": {
@@ -14139,7 +14139,7 @@
                 "mean_point_longitude": 127.36872730602353,
                 "shape_area_m2": 27.152587487278907
             },
-            "image_url": "images/map/202402603C00810034_cropped_437.tif"
+            "image_url": "images/map/202402603C00810034_cropped_437.png"
         },
         {
             "shape_attributes": {
@@ -14167,7 +14167,7 @@
                 "mean_point_longitude": 127.36836774676046,
                 "shape_area_m2": 28.371992970506998
             },
-            "image_url": "images/map/202402603C00810034_cropped_438.tif"
+            "image_url": "images/map/202402603C00810034_cropped_438.png"
         },
         {
             "shape_attributes": {
@@ -14195,7 +14195,7 @@
                 "mean_point_longitude": 127.36926575730688,
                 "shape_area_m2": 29.44045329761253
             },
-            "image_url": "images/map/202402603C00810034_cropped_439.tif"
+            "image_url": "images/map/202402603C00810034_cropped_439.png"
         },
         {
             "shape_attributes": {
@@ -14223,7 +14223,7 @@
                 "mean_point_longitude": 127.36899367706359,
                 "shape_area_m2": 28.56808258587128
             },
-            "image_url": "images/map/202402603C00810034_cropped_440.tif"
+            "image_url": "images/map/202402603C00810034_cropped_440.png"
         },
         {
             "shape_attributes": {
@@ -14253,7 +14253,7 @@
                 "mean_point_longitude": 127.3689508233386,
                 "shape_area_m2": 28.622603361169283
             },
-            "image_url": "images/map/202402603C00810034_cropped_441.tif"
+            "image_url": "images/map/202402603C00810034_cropped_441.png"
         },
         {
             "shape_attributes": {
@@ -14281,7 +14281,7 @@
                 "mean_point_longitude": 127.36945108176918,
                 "shape_area_m2": 15.80550729366999
             },
-            "image_url": "images/map/202402603C00810034_cropped_442.tif"
+            "image_url": "images/map/202402603C00810034_cropped_442.png"
         },
         {
             "shape_attributes": {
@@ -14303,7 +14303,7 @@
                 "mean_point_longitude": 127.3692155141269,
                 "shape_area_m2": 26.738962499434194
             },
-            "image_url": "images/map/202402603C00810034_cropped_443.tif"
+            "image_url": "images/map/202402603C00810034_cropped_443.png"
         },
         {
             "shape_attributes": {
@@ -14333,7 +14333,7 @@
                 "mean_point_longitude": 127.36823209443604,
                 "shape_area_m2": 11.138714096687504
             },
-            "image_url": "images/map/202402603C00810034_cropped_444.tif"
+            "image_url": "images/map/202402603C00810034_cropped_444.png"
         },
         {
             "shape_attributes": {
@@ -14369,7 +14369,7 @@
                 "mean_point_longitude": 127.36859945347642,
                 "shape_area_m2": 75.96072737905844
             },
-            "image_url": "images/map/202402603C00810034_cropped_445.tif"
+            "image_url": "images/map/202402603C00810034_cropped_445.png"
         },
         {
             "shape_attributes": {
@@ -14463,7 +14463,7 @@
                 "mean_point_longitude": 127.36929945045259,
                 "shape_area_m2": 173.8633252090084
             },
-            "image_url": "images/map/202402603C00810034_cropped_446.tif"
+            "image_url": "images/map/202402603C00810034_cropped_446.png"
         },
         {
             "shape_attributes": {
@@ -14507,7 +14507,7 @@
                 "mean_point_longitude": 127.36833311348448,
                 "shape_area_m2": 114.26051033087958
             },
-            "image_url": "images/map/202402603C00810034_cropped_447.tif"
+            "image_url": "images/map/202402603C00810034_cropped_447.png"
         },
         {
             "shape_attributes": {
@@ -14549,7 +14549,7 @@
                 "mean_point_longitude": 127.3683854405419,
                 "shape_area_m2": 152.23869274343647
             },
-            "image_url": "images/map/202402603C00810034_cropped_448.tif"
+            "image_url": "images/map/202402603C00810034_cropped_448.png"
         },
         {
             "shape_attributes": {
@@ -14595,7 +14595,7 @@
                 "mean_point_longitude": 127.3688078652853,
                 "shape_area_m2": 103.7621235518816
             },
-            "image_url": "images/map/202402603C00810034_cropped_449.tif"
+            "image_url": "images/map/202402603C00810034_cropped_449.png"
         },
         {
             "shape_attributes": {
@@ -14623,7 +14623,7 @@
                 "mean_point_longitude": 127.36923668529893,
                 "shape_area_m2": 24.56267219988215
             },
-            "image_url": "images/map/202402603C00810034_cropped_450.tif"
+            "image_url": "images/map/202402603C00810034_cropped_450.png"
         },
         {
             "shape_attributes": {
@@ -14649,7 +14649,7 @@
                 "mean_point_longitude": 127.36927556486327,
                 "shape_area_m2": 11.814934270915517
             },
-            "image_url": "images/map/202402603C00810034_cropped_451.tif"
+            "image_url": "images/map/202402603C00810034_cropped_451.png"
         },
         {
             "shape_attributes": {
@@ -14675,7 +14675,7 @@
                 "mean_point_longitude": 127.3695062122901,
                 "shape_area_m2": 15.325546164339633
             },
-            "image_url": "images/map/202402603C00810034_cropped_452.tif"
+            "image_url": "images/map/202402603C00810034_cropped_452.png"
         },
         {
             "shape_attributes": {
@@ -14705,7 +14705,7 @@
                 "mean_point_longitude": 127.36971987212826,
                 "shape_area_m2": 14.45021283907066
             },
-            "image_url": "images/map/202402603C00810034_cropped_453.tif"
+            "image_url": "images/map/202402603C00810034_cropped_453.png"
         },
         {
             "shape_attributes": {
@@ -14735,7 +14735,7 @@
                 "mean_point_longitude": 127.36971946302349,
                 "shape_area_m2": 4.57620528990213
             },
-            "image_url": "images/map/202402603C00810034_cropped_454.tif"
+            "image_url": "images/map/202402603C00810034_cropped_454.png"
         },
         {
             "shape_attributes": {
@@ -14765,7 +14765,7 @@
                 "mean_point_longitude": 127.35699964559635,
                 "shape_area_m2": 23.077856592710695
             },
-            "image_url": "images/map/202402603C00810034_cropped_455.tif"
+            "image_url": "images/map/202402603C00810034_cropped_455.png"
         },
         {
             "shape_attributes": {
@@ -14793,7 +14793,7 @@
                 "mean_point_longitude": 127.35693684801365,
                 "shape_area_m2": 17.15214581591623
             },
-            "image_url": "images/map/202402603C00810034_cropped_456.tif"
+            "image_url": "images/map/202402603C00810034_cropped_456.png"
         },
         {
             "shape_attributes": {
@@ -14825,7 +14825,7 @@
                 "mean_point_longitude": 127.35697379017468,
                 "shape_area_m2": 23.047656397102514
             },
-            "image_url": "images/map/202402603C00810034_cropped_457.tif"
+            "image_url": "images/map/202402603C00810034_cropped_457.png"
         },
         {
             "shape_attributes": {
@@ -14855,7 +14855,7 @@
                 "mean_point_longitude": 127.35695873511901,
                 "shape_area_m2": 24.077016090780504
             },
-            "image_url": "images/map/202402603C00810034_cropped_458.tif"
+            "image_url": "images/map/202402603C00810034_cropped_458.png"
         },
         {
             "shape_attributes": {
@@ -14879,7 +14879,7 @@
                 "mean_point_longitude": 127.35742255765574,
                 "shape_area_m2": 6.381472911766062
             },
-            "image_url": "images/map/202402603C00810034_cropped_459.tif"
+            "image_url": "images/map/202402603C00810034_cropped_459.png"
         },
         {
             "shape_attributes": {
@@ -14909,7 +14909,7 @@
                 "mean_point_longitude": 127.35876588727092,
                 "shape_area_m2": 12.252763656858729
             },
-            "image_url": "images/map/202402603C00810034_cropped_460.tif"
+            "image_url": "images/map/202402603C00810034_cropped_460.png"
         },
         {
             "shape_attributes": {
@@ -14943,7 +14943,7 @@
                 "mean_point_longitude": 127.3588120727204,
                 "shape_area_m2": 58.37188452059802
             },
-            "image_url": "images/map/202402603C00810034_cropped_461.tif"
+            "image_url": "images/map/202402603C00810034_cropped_461.png"
         },
         {
             "shape_attributes": {
@@ -14971,7 +14971,7 @@
                 "mean_point_longitude": 127.35855997120169,
                 "shape_area_m2": 15.697063684955062
             },
-            "image_url": "images/map/202402603C00810034_cropped_462.tif"
+            "image_url": "images/map/202402603C00810034_cropped_462.png"
         },
         {
             "shape_attributes": {
@@ -14993,7 +14993,7 @@
                 "mean_point_longitude": 127.36614342365282,
                 "shape_area_m2": 4.902322881809096
             },
-            "image_url": "images/map/202402603C00810034_cropped_463.tif"
+            "image_url": "images/map/202402603C00810034_cropped_463.png"
         },
         {
             "shape_attributes": {
@@ -15091,7 +15091,7 @@
                 "mean_point_longitude": 127.36644626488835,
                 "shape_area_m2": 158.0219363881526
             },
-            "image_url": "images/map/202402603C00810034_cropped_464.tif"
+            "image_url": "images/map/202402603C00810034_cropped_464.png"
         },
         {
             "shape_attributes": {
@@ -15125,7 +15125,7 @@
                 "mean_point_longitude": 127.3681258263719,
                 "shape_area_m2": 49.705037431884946
             },
-            "image_url": "images/map/202402603C00810034_cropped_465.tif"
+            "image_url": "images/map/202402603C00810034_cropped_465.png"
         },
         {
             "shape_attributes": {
@@ -15151,7 +15151,7 @@
                 "mean_point_longitude": 127.36944747653337,
                 "shape_area_m2": 15.790545268742108
             },
-            "image_url": "images/map/202402603C00810034_cropped_466.tif"
+            "image_url": "images/map/202402603C00810034_cropped_466.png"
         },
         {
             "shape_attributes": {
@@ -15181,7 +15181,7 @@
                 "mean_point_longitude": 127.36921046850138,
                 "shape_area_m2": 26.72409015564699
             },
-            "image_url": "images/map/202402603C00810034_cropped_467.tif"
+            "image_url": "images/map/202402603C00810034_cropped_467.png"
         },
         {
             "shape_attributes": {
@@ -15213,7 +15213,7 @@
                 "mean_point_longitude": 127.36850465367283,
                 "shape_area_m2": 52.71183333047715
             },
-            "image_url": "images/map/202402603C00810034_cropped_468.tif"
+            "image_url": "images/map/202402603C00810034_cropped_468.png"
         },
         {
             "shape_attributes": {
@@ -15235,7 +15235,7 @@
                 "mean_point_longitude": 127.3692914848833,
                 "shape_area_m2": 31.96176667005268
             },
-            "image_url": "images/map/202402603C00810034_cropped_469.tif"
+            "image_url": "images/map/202402603C00810034_cropped_469.png"
         },
         {
             "shape_attributes": {
@@ -15283,7 +15283,7 @@
                 "mean_point_longitude": 127.36849930803713,
                 "shape_area_m2": 151.76279743961067
             },
-            "image_url": "images/map/202402603C00810034_cropped_470.tif"
+            "image_url": "images/map/202402603C00810034_cropped_470.png"
         },
         {
             "shape_attributes": {
@@ -15325,7 +15325,7 @@
                 "mean_point_longitude": 127.3686378990975,
                 "shape_area_m2": 156.15776320043116
             },
-            "image_url": "images/map/202402603C00810034_cropped_471.tif"
+            "image_url": "images/map/202402603C00810034_cropped_471.png"
         },
         {
             "shape_attributes": {
@@ -15375,7 +15375,7 @@
                 "mean_point_longitude": 127.36876040659845,
                 "shape_area_m2": 152.37222673501523
             },
-            "image_url": "images/map/202402603C00810034_cropped_472.tif"
+            "image_url": "images/map/202402603C00810034_cropped_472.png"
         },
         {
             "shape_attributes": {
@@ -15407,7 +15407,7 @@
                 "mean_point_longitude": 127.36855159844556,
                 "shape_area_m2": 25.69180822496493
             },
-            "image_url": "images/map/202402603C00810034_cropped_473.tif"
+            "image_url": "images/map/202402603C00810034_cropped_473.png"
         },
         {
             "shape_attributes": {
@@ -15435,7 +15435,7 @@
                 "mean_point_longitude": 127.36950308921348,
                 "shape_area_m2": 13.022444975158718
             },
-            "image_url": "images/map/202402603C00810034_cropped_474.tif"
+            "image_url": "images/map/202402603C00810034_cropped_474.png"
         },
         {
             "shape_attributes": {
@@ -15465,7 +15465,7 @@
                 "mean_point_longitude": 127.3610578967633,
                 "shape_area_m2": 10.828072517810478
             },
-            "image_url": "images/map/202402603C00810034_cropped_475.tif"
+            "image_url": "images/map/202402603C00810034_cropped_475.png"
         },
         {
             "shape_attributes": {
@@ -15491,7 +15491,7 @@
                 "mean_point_longitude": 127.36292447625381,
                 "shape_area_m2": 6.713601226553887
             },
-            "image_url": "images/map/202402603C00810034_cropped_476.tif"
+            "image_url": "images/map/202402603C00810034_cropped_476.png"
         },
         {
             "shape_attributes": {
@@ -15515,7 +15515,7 @@
                 "mean_point_longitude": 127.36519411648162,
                 "shape_area_m2": 6.641154582617652
             },
-            "image_url": "images/map/202402603C00810034_cropped_477.tif"
+            "image_url": "images/map/202402603C00810034_cropped_477.png"
         },
         {
             "shape_attributes": {
@@ -15541,7 +15541,7 @@
                 "mean_point_longitude": 127.36609839875034,
                 "shape_area_m2": 3.426224481905904
             },
-            "image_url": "images/map/202402603C00810034_cropped_478.tif"
+            "image_url": "images/map/202402603C00810034_cropped_478.png"
         },
         {
             "shape_attributes": {
@@ -15567,7 +15567,7 @@
                 "mean_point_longitude": 127.36667698978685,
                 "shape_area_m2": 13.928227975106855
             },
-            "image_url": "images/map/202402603C00810034_cropped_479.tif"
+            "image_url": "images/map/202402603C00810034_cropped_479.png"
         },
         {
             "shape_attributes": {
@@ -15599,7 +15599,7 @@
                 "mean_point_longitude": 127.3681358457197,
                 "shape_area_m2": 15.98405323080927
             },
-            "image_url": "images/map/202402603C00810034_cropped_480.tif"
+            "image_url": "images/map/202402603C00810034_cropped_480.png"
         },
         {
             "shape_attributes": {
@@ -15629,7 +15629,7 @@
                 "mean_point_longitude": 127.36849269417662,
                 "shape_area_m2": 10.076392756456611
             },
-            "image_url": "images/map/202402603C00810034_cropped_481.tif"
+            "image_url": "images/map/202402603C00810034_cropped_481.png"
         },
         {
             "shape_attributes": {
@@ -15651,7 +15651,7 @@
                 "mean_point_longitude": 127.3683859723781,
                 "shape_area_m2": 11.784955155311703
             },
-            "image_url": "images/map/202402603C00810034_cropped_482.tif"
+            "image_url": "images/map/202402603C00810034_cropped_482.png"
         },
         {
             "shape_attributes": {
@@ -15757,7 +15757,7 @@
                 "mean_point_longitude": 127.37004362487944,
                 "shape_area_m2": 778.9907604507036
             },
-            "image_url": "images/map/202402603C00810034_cropped_483.tif"
+            "image_url": "images/map/202402603C00810034_cropped_483.png"
         }
     ]
 }

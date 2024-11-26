@@ -95,7 +95,7 @@ def crop_image_around_points(image_path,json_path,polygons, center_points, outpu
           cropped_img = pil_img.crop((left, top, right, bottom))
 
           # 결과 저장
-          image_name=f"{data['image_id']}_cropped_{idx}.tif"
+          image_name=f"{data['image_id']}_cropped_{idx}.png"
           output_path = os.path.join(output_folder, image_name)
           cropped_img.save(output_path)
           print(f"Cropped image saved to {output_path}")
